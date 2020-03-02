@@ -610,3 +610,382 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.02-23.42.25:578][830]LogAssetRegistry: Asset discovery search completed in 12.9118 seconds
 [2020.03.02-23.42.25:581][830]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
 [2020.03.02-23.42.31:900][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.02-23.43.30:591][172]LogRenderer: Reallocating scene render targets to support 900x572 Format 10 NumSamples 1 (Frame:2857).
+[2020.03.02-23.43.30:639][173]LogRenderer: Reallocating scene render targets to support 904x572 Format 10 NumSamples 1 (Frame:2859).
+[2020.03.02-23.43.30:657][174]LogRenderer: Reallocating scene render targets to support 944x572 Format 10 NumSamples 1 (Frame:2861).
+[2020.03.02-23.43.30:677][175]LogRenderer: Reallocating scene render targets to support 968x572 Format 10 NumSamples 1 (Frame:2863).
+[2020.03.02-23.43.30:698][176]LogRenderer: Reallocating scene render targets to support 992x572 Format 10 NumSamples 1 (Frame:2865).
+[2020.03.02-23.43.30:720][177]LogRenderer: Reallocating scene render targets to support 1016x572 Format 10 NumSamples 1 (Frame:2867).
+[2020.03.02-23.43.30:739][178]LogRenderer: Reallocating scene render targets to support 1028x572 Format 10 NumSamples 1 (Frame:2869).
+[2020.03.02-23.43.30:759][179]LogRenderer: Reallocating scene render targets to support 1032x572 Format 10 NumSamples 1 (Frame:2871).
+[2020.03.02-23.43.30:777][180]LogRenderer: Reallocating scene render targets to support 1040x572 Format 10 NumSamples 1 (Frame:2873).
+[2020.03.02-23.43.30:798][181]LogRenderer: Reallocating scene render targets to support 1048x572 Format 10 NumSamples 1 (Frame:2875).
+[2020.03.02-23.43.30:817][182]LogRenderer: Reallocating scene render targets to support 1056x572 Format 10 NumSamples 1 (Frame:2877).
+[2020.03.02-23.43.30:834][183]LogRenderer: Reallocating scene render targets to support 1064x572 Format 10 NumSamples 1 (Frame:2879).
+[2020.03.02-23.43.30:852][184]LogRenderer: Reallocating scene render targets to support 1072x572 Format 10 NumSamples 1 (Frame:2881).
+[2020.03.02-23.43.30:870][185]LogRenderer: Reallocating scene render targets to support 1076x572 Format 10 NumSamples 1 (Frame:2883).
+[2020.03.02-23.43.30:887][186]LogRenderer: Reallocating scene render targets to support 1084x572 Format 10 NumSamples 1 (Frame:2885).
+[2020.03.02-23.43.30:905][187]LogRenderer: Reallocating scene render targets to support 1096x572 Format 10 NumSamples 1 (Frame:2887).
+[2020.03.02-23.43.30:924][188]LogRenderer: Reallocating scene render targets to support 1104x572 Format 10 NumSamples 1 (Frame:2889).
+[2020.03.02-23.43.30:941][189]LogRenderer: Reallocating scene render targets to support 1112x572 Format 10 NumSamples 1 (Frame:2891).
+[2020.03.02-23.43.30:981][191]LogRenderer: Reallocating scene render targets to support 1116x572 Format 10 NumSamples 1 (Frame:2895).
+[2020.03.02-23.43.30:999][192]LogRenderer: Reallocating scene render targets to support 1120x572 Format 10 NumSamples 1 (Frame:2897).
+[2020.03.02-23.43.31:018][193]LogRenderer: Reallocating scene render targets to support 1136x572 Format 10 NumSamples 1 (Frame:2899).
+[2020.03.02-23.43.31:034][194]LogRenderer: Reallocating scene render targets to support 1144x572 Format 10 NumSamples 1 (Frame:2901).
+[2020.03.02-23.43.31:053][195]LogRenderer: Reallocating scene render targets to support 1152x572 Format 10 NumSamples 1 (Frame:2903).
+[2020.03.02-23.43.31:069][196]LogRenderer: Reallocating scene render targets to support 1160x572 Format 10 NumSamples 1 (Frame:2905).
+[2020.03.02-23.43.31:087][197]LogRenderer: Reallocating scene render targets to support 1176x572 Format 10 NumSamples 1 (Frame:2907).
+[2020.03.02-23.43.31:104][198]LogRenderer: Reallocating scene render targets to support 1212x572 Format 10 NumSamples 1 (Frame:2909).
+[2020.03.02-23.43.31:122][199]LogRenderer: Reallocating scene render targets to support 1236x572 Format 10 NumSamples 1 (Frame:2911).
+[2020.03.02-23.43.31:138][200]LogRenderer: Reallocating scene render targets to support 1252x572 Format 10 NumSamples 1 (Frame:2913).
+[2020.03.02-23.43.31:157][201]LogRenderer: Reallocating scene render targets to support 1268x572 Format 10 NumSamples 1 (Frame:2915).
+[2020.03.02-23.43.31:173][202]LogRenderer: Reallocating scene render targets to support 1284x572 Format 10 NumSamples 1 (Frame:2917).
+[2020.03.02-23.43.31:191][203]LogRenderer: Reallocating scene render targets to support 1300x572 Format 10 NumSamples 1 (Frame:2919).
+[2020.03.02-23.43.31:208][204]LogRenderer: Reallocating scene render targets to support 1316x572 Format 10 NumSamples 1 (Frame:2921).
+[2020.03.02-23.43.31:225][205]LogRenderer: Reallocating scene render targets to support 1320x572 Format 10 NumSamples 1 (Frame:2923).
+[2020.03.02-23.43.31:341][217]LogRenderer: Reallocating scene render targets to support 1324x572 Format 10 NumSamples 1 (Frame:2927).
+[2020.03.02-23.43.35:717][737]LogRenderer: Reallocating scene render targets to support 1328x572 Format 10 NumSamples 1 (Frame:3265).
+[2020.03.02-23.43.35:753][739]LogRenderer: Reallocating scene render targets to support 1336x572 Format 10 NumSamples 1 (Frame:3269).
+[2020.03.02-23.43.35:772][740]LogRenderer: Reallocating scene render targets to support 1344x572 Format 10 NumSamples 1 (Frame:3271).
+[2020.03.02-23.43.35:790][741]LogRenderer: Reallocating scene render targets to support 1356x572 Format 10 NumSamples 1 (Frame:3273).
+[2020.03.02-23.43.35:808][742]LogRenderer: Reallocating scene render targets to support 1364x572 Format 10 NumSamples 1 (Frame:3275).
+[2020.03.02-23.43.35:825][743]LogRenderer: Reallocating scene render targets to support 1368x572 Format 10 NumSamples 1 (Frame:3277).
+[2020.03.02-23.43.35:843][744]LogRenderer: Reallocating scene render targets to support 1372x572 Format 10 NumSamples 1 (Frame:3279).
+[2020.03.02-23.43.35:861][745]LogRenderer: Reallocating scene render targets to support 1376x572 Format 10 NumSamples 1 (Frame:3281).
+[2020.03.02-23.43.35:879][746]LogRenderer: Reallocating scene render targets to support 1380x572 Format 10 NumSamples 1 (Frame:3283).
+[2020.03.02-23.43.35:899][747]LogRenderer: Reallocating scene render targets to support 1384x572 Format 10 NumSamples 1 (Frame:3285).
+[2020.03.02-23.43.35:918][748]LogRenderer: Reallocating scene render targets to support 1388x572 Format 10 NumSamples 1 (Frame:3287).
+[2020.03.02-23.43.35:965][752]LogRenderer: Reallocating scene render targets to support 1396x572 Format 10 NumSamples 1 (Frame:3291).
+[2020.03.02-23.43.36:002][754]LogRenderer: Reallocating scene render targets to support 1400x572 Format 10 NumSamples 1 (Frame:3295).
+[2020.03.02-23.52.57:255][152]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.02-23.53.17:230][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/Acid_Bucket.png)
+[2020.03.02-23.53.17:275][272]LogTexture: Display: Building textures: Acid_Bucket (AutoDXT, 2100X1500)
+[2020.03.02-23.53.17:447][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/car.png)
+[2020.03.02-23.53.17:461][272]LogTexture: Display: Building textures: car (BGRA8, 1018X512)
+[2020.03.02-23.53.17:475][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/JunkPlatform BASIC cropped.png)
+[2020.03.02-23.53.17:477][272]LogTexture: Display: Building textures: JunkPlatform_BASIC_cropped (BGRA8, 259X180)
+[2020.03.02-23.53.17:481][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/JunkPlatform BASIC.png)
+[2020.03.02-23.53.17:482][272]LogTexture: Display: Building textures: JunkPlatform_BASIC (BGRA8, 259X237)
+[2020.03.02-23.53.17:487][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/JunkPlatform OFF.png)
+[2020.03.02-23.53.17:489][272]LogTexture: Display: Building textures: JunkPlatform_OFF (BGRA8, 259X237)
+[2020.03.02-23.53.17:494][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/JunkPlatform ON.png)
+[2020.03.02-23.53.17:495][272]LogTexture: Display: Building textures: JunkPlatform_ON (BGRA8, 259X237)
+[2020.03.02-23.53.17:500][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/Steel Bar.png)
+[2020.03.02-23.53.17:533][272]LogTexture: Display: Building textures: Steel_Bar (AutoDXT, 2100X1500)
+[2020.03.02-23.53.17:634][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/StupidPipe_Heagney.png)
+[2020.03.02-23.53.17:640][272]LogTexture: Display: Building textures: StupidPipe_Heagney (AutoDXT, 512X512)
+[2020.03.02-23.53.17:693][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/Time_Warped_Tower_Fungi.png)
+[2020.03.02-23.53.17:737][272]LogTexture: Display: Building textures: Time_Warped_Tower_Fungi (AutoDXT, 2100X1500)
+[2020.03.02-23.53.17:863][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/Yeargoods_Heagney.png)
+[2020.03.02-23.53.17:870][272]LogTexture: Display: Building textures: Yeargoods_Heagney (AutoDXT, 512X512)
+[2020.03.02-23.53.21:037][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.03.02-23.53.21:039][617]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.022
+[2020.03.02-23.53.21:040][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/Acid_Bucket] ([1] browsable assets)...
+[2020.03.02-23.53.21:042][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/Acid_Bucket.Acid_Bucket]
+[2020.03.02-23.53.21:042][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/Acid_Bucket]
+[2020.03.02-23.53.21:042][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/Acid_Bucket" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/Acid_Bucket_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.03.02-23.53.21:050][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Acid_Bucket_Auto12B69261A47D7B8F5D6CB6DA8C319566D.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/Acid_Bucket_Auto1.uasset'
+[2020.03.02-23.53.21:051][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/car] ([1] browsable assets)...
+[2020.03.02-23.53.21:053][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/car.car]
+[2020.03.02-23.53.21:053][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/car]
+[2020.03.02-23.53.21:053][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/car" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/car_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.03.02-23.53.21:058][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/car_Auto1CD906289435AB16B5EA72BB8746646B4.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/car_Auto1.uasset'
+[2020.03.02-23.53.21:059][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/JunkPlatform_BASIC_cropped] ([1] browsable assets)...
+[2020.03.02-23.53.21:062][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/JunkPlatform_BASIC_cropped.JunkPlatform_BASIC_cropped]
+[2020.03.02-23.53.21:062][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/JunkPlatform_BASIC_cropped]
+[2020.03.02-23.53.21:066][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_BASIC_cropped_Auto1C374F2CE41F262AD473ED083D16C4060.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/JunkPlatform_BASIC_cropped_Auto1.uasset'
+[2020.03.02-23.53.21:067][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/JunkPlatform_BASIC] ([1] browsable assets)...
+[2020.03.02-23.53.21:071][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/JunkPlatform_BASIC.JunkPlatform_BASIC]
+[2020.03.02-23.53.21:071][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/JunkPlatform_BASIC]
+[2020.03.02-23.53.21:076][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_BASIC_Auto11FFD12C34A7D9579805D55AE35C560A6.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/JunkPlatform_BASIC_Auto1.uasset'
+[2020.03.02-23.53.21:076][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/JunkPlatform_OFF] ([1] browsable assets)...
+[2020.03.02-23.53.21:081][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/JunkPlatform_OFF.JunkPlatform_OFF]
+[2020.03.02-23.53.21:081][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/JunkPlatform_OFF]
+[2020.03.02-23.53.21:085][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_OFF_Auto152C719844A0F4AA15B5DAD88A87F6235.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/JunkPlatform_OFF_Auto1.uasset'
+[2020.03.02-23.53.21:086][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/JunkPlatform_ON] ([1] browsable assets)...
+[2020.03.02-23.53.21:091][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/JunkPlatform_ON.JunkPlatform_ON]
+[2020.03.02-23.53.21:091][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/JunkPlatform_ON]
+[2020.03.02-23.53.21:095][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_ON_Auto1C22801244B0A19488D9017AFFF66B3E6.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/JunkPlatform_ON_Auto1.uasset'
+[2020.03.02-23.53.21:096][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/Steel_Bar] ([1] browsable assets)...
+[2020.03.02-23.53.21:098][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/Steel_Bar.Steel_Bar]
+[2020.03.02-23.53.21:098][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/Steel_Bar]
+[2020.03.02-23.53.21:098][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/Steel_Bar" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/Steel_Bar_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.03.02-23.53.21:104][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Steel_Bar_Auto16D3885364835A9D5E03D19914CC1B2C6.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/Steel_Bar_Auto1.uasset'
+[2020.03.02-23.53.21:105][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/StupidPipe_Heagney] ([1] browsable assets)...
+[2020.03.02-23.53.21:108][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/StupidPipe_Heagney.StupidPipe_Heagney]
+[2020.03.02-23.53.21:109][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/StupidPipe_Heagney]
+[2020.03.02-23.53.21:114][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/StupidPipe_Heagney_Auto10462516A4D963F35EA56BFBEBA84E3E6.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/StupidPipe_Heagney_Auto1.uasset'
+[2020.03.02-23.53.21:115][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/Time_Warped_Tower_Fungi] ([1] browsable assets)...
+[2020.03.02-23.53.21:116][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/Time_Warped_Tower_Fungi.Time_Warped_Tower_Fungi]
+[2020.03.02-23.53.21:116][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/Time_Warped_Tower_Fungi]
+[2020.03.02-23.53.21:123][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Time_Warped_Tower_Fungi_Auto105CDFD7A40422AA14588399B789EF115.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/Time_Warped_Tower_Fungi_Auto1.uasset'
+[2020.03.02-23.53.21:124][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/Yeargoods_Heagney] ([1] browsable assets)...
+[2020.03.02-23.53.21:128][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/Yeargoods_Heagney.Yeargoods_Heagney]
+[2020.03.02-23.53.21:128][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/Yeargoods_Heagney]
+[2020.03.02-23.53.21:134][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Yeargoods_Heagney_Auto118F780F544466D01D78754B8D8B7A37B.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/Yeargoods_Heagney_Auto1.uasset'
+[2020.03.02-23.53.21:135][617]LogFileHelpers: Auto-saving content packages took 0.097
+[2020.03.02-23.54.28:594][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\Steel Bar.png)
+[2020.03.02-23.54.28:628][492]LogTexture: Display: Building textures: Steel_Bar (AutoDXT, 2100X1500)
+[2020.03.02-23.54.28:727][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\StupidPipe_Heagney.png)
+[2020.03.02-23.54.28:732][492]LogTexture: Display: Building textures: StupidPipe_Heagney (AutoDXT, 512X512)
+[2020.03.02-23.54.28:785][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\Time_Warped_Tower_Fungi.png)
+[2020.03.02-23.54.28:832][492]LogTexture: Display: Building textures: Time_Warped_Tower_Fungi (AutoDXT, 2100X1500)
+[2020.03.02-23.54.28:977][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\Yeargoods_Heagney.png)
+[2020.03.02-23.54.28:983][492]LogTexture: Display: Building textures: Yeargoods_Heagney (AutoDXT, 512X512)
+[2020.03.02-23.54.29:058][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\Acid_Bucket.png)
+[2020.03.02-23.54.29:099][492]LogTexture: Display: Building textures: Acid_Bucket (AutoDXT, 2100X1500)
+[2020.03.02-23.54.29:271][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\car.png)
+[2020.03.02-23.54.29:283][492]LogTexture: Display: Building textures: car (BGRA8, 1018X512)
+[2020.03.02-23.54.29:294][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\JunkPlatform BASIC cropped.png)
+[2020.03.02-23.54.29:296][492]LogTexture: Display: Building textures: JunkPlatform_BASIC_cropped (BGRA8, 259X180)
+[2020.03.02-23.54.29:299][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\JunkPlatform BASIC.png)
+[2020.03.02-23.54.29:301][492]LogTexture: Display: Building textures: JunkPlatform_BASIC (BGRA8, 259X237)
+[2020.03.02-23.54.29:305][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\JunkPlatform OFF.png)
+[2020.03.02-23.54.29:307][492]LogTexture: Display: Building textures: JunkPlatform_OFF (BGRA8, 259X237)
+[2020.03.02-23.54.29:311][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\JunkPlatform ON.png)
+[2020.03.02-23.54.29:313][492]LogTexture: Display: Building textures: JunkPlatform_ON (BGRA8, 259X237)
+[2020.03.02-23.54.45:348][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.03.02-23.54.47:354][178]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.02-23.54.48:611][178]LogUObjectGlobals: Force Deleting 10 Package(s):
+	Asset Name: /Game/Platforms/Acid_Bucket.Acid_Bucket
+	Asset Name: /Game/Platforms/car.car
+	Asset Name: /Game/Platforms/JunkPlatform_BASIC.JunkPlatform_BASIC
+	Asset Name: /Game/Platforms/JunkPlatform_BASIC_cropped.JunkPlatform_BASIC_cropped
+	Asset Name: /Game/Platforms/JunkPlatform_OFF.JunkPlatform_OFF
+	Asset Name: /Game/Platforms/JunkPlatform_ON.JunkPlatform_ON
+	Asset Name: /Game/Platforms/Steel_Bar.Steel_Bar
+	Asset Name: /Game/Platforms/StupidPipe_Heagney.StupidPipe_Heagney
+	Asset Name: /Game/Platforms/Time_Warped_Tower_Fungi.Time_Warped_Tower_Fungi
+	Asset Name: /Game/Platforms/Yeargoods_Heagney.Yeargoods_Heagney
+[2020.03.02-23.54.51:807][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.54.51:810][178]LogObjectTools: Warning: ForceDeleteObject failed to delete Acid_Bucket, queuing its package for reloading
+[2020.03.02-23.54.52:709][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.54.52:711][178]LogObjectTools: Warning: ForceDeleteObject failed to delete car, queuing its package for reloading
+[2020.03.02-23.54.53:779][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.54.53:782][178]LogObjectTools: Warning: ForceDeleteObject failed to delete JunkPlatform_BASIC, queuing its package for reloading
+[2020.03.02-23.54.55:272][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.54.55:274][178]LogObjectTools: Warning: ForceDeleteObject failed to delete JunkPlatform_BASIC_cropped, queuing its package for reloading
+[2020.03.02-23.54.56:602][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.54.56:605][178]LogObjectTools: Warning: ForceDeleteObject failed to delete JunkPlatform_OFF, queuing its package for reloading
+[2020.03.02-23.54.57:201][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.54.57:204][178]LogObjectTools: Warning: ForceDeleteObject failed to delete JunkPlatform_ON, queuing its package for reloading
+[2020.03.02-23.54.58:719][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.54.58:722][178]LogObjectTools: Warning: ForceDeleteObject failed to delete Steel_Bar, queuing its package for reloading
+[2020.03.02-23.55.00:136][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.55.00:139][178]LogObjectTools: Warning: ForceDeleteObject failed to delete StupidPipe_Heagney, queuing its package for reloading
+[2020.03.02-23.55.01:755][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.55.01:759][178]LogObjectTools: Warning: ForceDeleteObject failed to delete Time_Warped_Tower_Fungi, queuing its package for reloading
+[2020.03.02-23.55.02:402][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.55.02:405][178]LogObjectTools: Warning: ForceDeleteObject failed to delete Yeargoods_Heagney, queuing its package for reloading
+[2020.03.02-23.55.02:406][178]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.02-23.55.02:523][178]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.117 s
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: 
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: Ensure condition failed: PackagesToReload.Num() == 0 [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 2810]
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: Failed to unload all packages during ForceDeleteObjects
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: Stack: 
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5d35f8b9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5cc26928 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5c4416d7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5c6bce38 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5c6b6614 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fc41498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fc59281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fab323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb39175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb2413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb18f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c994ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c98242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c997195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c97ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fffab80681d USER32.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fffab806212 USER32.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c998569 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb44080 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fae1c85 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5c750ff6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5cc1a0fe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5cc195c6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff4a304a9c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff4a426377 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff4a403ba8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5faf6c6a UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fbd25be UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fbd8430 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fbb1b84 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fc41498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fc59281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fbd9b95 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fab323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb39175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb2413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb18f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c994ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c98242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c997195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c97ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fffab80681d USER32.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fffab806212 USER32.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c998699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007ff672626db0 UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007ff67263c3ec UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007ff67263c4ca UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007ff67264ceae UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007ff67264fcbe UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fffab1b7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fffabb4ce71 ntdll.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: 
+[2020.03.02-23.55.02:531][178]LogStats:                SubmitErrorReport -  0.000 s
+[2020.03.02-23.55.05:463][178]LogStats:                    SendNewReport -  2.932 s
+[2020.03.02-23.55.05:463][178]LogStats:             FDebug::EnsureFailed -  3.057 s
+[2020.03.02-23.55.05:471][178]LogUObjectGlobals: Reloading 10 Package(s):
+	Asset Name: /Game/Platforms/Acid_Bucket
+	Asset Name: /Game/Platforms/car
+	Asset Name: /Game/Platforms/JunkPlatform_BASIC
+	Asset Name: /Game/Platforms/JunkPlatform_BASIC_cropped
+	Asset Name: /Game/Platforms/JunkPlatform_OFF
+	Asset Name: /Game/Platforms/JunkPlatform_ON
+	Asset Name: /Game/Platforms/Steel_Bar
+	Asset Name: /Game/Platforms/StupidPipe_Heagney
+	Asset Name: /Game/Platforms/Time_Warped_Tower_Fungi
+	Asset Name: /Game/Platforms/Yeargoods_Heagney
+[2020.03.02-23.55.05:494][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.03.02-23.55.05:496][178]LogLinker: Warning: Failed to load '/Game/Platforms/Acid_Bucket': Can't find file.
+[2020.03.02-23.55.05:496][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/Acid_Bucket' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:496][178]LogLinker: Warning: Failed to load '/Game/Platforms/car': Can't find file.
+[2020.03.02-23.55.05:496][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/car' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:593][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.02-23.55.05:594][178]LogLinker: Warning: Failed to load '/Game/Platforms/JunkPlatform_BASIC': Can't find file.
+[2020.03.02-23.55.05:594][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/JunkPlatform_BASIC' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:594][178]LogLinker: Warning: Failed to load '/Game/Platforms/JunkPlatform_BASIC_cropped': Can't find file.
+[2020.03.02-23.55.05:594][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/JunkPlatform_BASIC_cropped' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:691][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.03.02-23.55.05:693][178]LogLinker: Warning: Failed to load '/Game/Platforms/JunkPlatform_OFF': Can't find file.
+[2020.03.02-23.55.05:693][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/JunkPlatform_OFF' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:693][178]LogLinker: Warning: Failed to load '/Game/Platforms/JunkPlatform_ON': Can't find file.
+[2020.03.02-23.55.05:693][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/JunkPlatform_ON' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:790][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.02-23.55.05:790][178]LogLinker: Warning: Failed to load '/Game/Platforms/Steel_Bar': Can't find file.
+[2020.03.02-23.55.05:790][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/Steel_Bar' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:790][178]LogLinker: Warning: Failed to load '/Game/Platforms/StupidPipe_Heagney': Can't find file.
+[2020.03.02-23.55.05:790][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/StupidPipe_Heagney' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:887][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.03.02-23.55.05:888][178]LogLinker: Warning: Failed to load '/Game/Platforms/Time_Warped_Tower_Fungi': Can't find file.
+[2020.03.02-23.55.05:888][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/Time_Warped_Tower_Fungi' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:888][178]LogLinker: Warning: Failed to load '/Game/Platforms/Yeargoods_Heagney': Can't find file.
+[2020.03.02-23.55.05:888][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/Yeargoods_Heagney' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:997][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.03.02-23.55.05:998][178]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.02-23.55.06:003][178]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.005 s
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: 
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: Ensure condition failed: bSuccess [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 2815]
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: Failed to reload package as a last resort in ForceDeleteObjects
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: Stack: 
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5d35fd19 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5cc2696d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5c4416d7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5c6bce38 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5c6b6614 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fc41498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fc59281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fab323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb39175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb2413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb18f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c994ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c98242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c997195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c97ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fffab80681d USER32.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fffab806212 USER32.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c998569 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb44080 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fae1c85 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5c750ff6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5cc1a0fe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5cc195c6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff4a304a9c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff4a426377 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff4a403ba8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5faf6c6a UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fbd25be UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fbd8430 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fbb1b84 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fc41498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fc59281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fbd9b95 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fab323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb39175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb2413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb18f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c994ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c98242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c997195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c97ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fffab80681d USER32.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fffab806212 USER32.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c998699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007ff672626db0 UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007ff67263c3ec UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007ff67263c4ca UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007ff67264ceae UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007ff67264fcbe UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fffab1b7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fffabb4ce71 ntdll.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: 
+[2020.03.02-23.55.06:005][178]LogStats:                SubmitErrorReport -  0.000 s
+[2020.03.02-23.55.09:243][178]LogStats:                    SendNewReport -  3.239 s
+[2020.03.02-23.55.09:243][178]LogStats:             FDebug::EnsureFailed -  3.246 s
+[2020.03.02-23.55.13:866][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.03.02-23.55.16:664][675]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.02-23.55.16:806][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.03.02-23.55.29:966][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/Acid_Bucket_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/Acid_Bucket_Sprite.uasset" SILENT=true
+[2020.03.02-23.55.29:972][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Acid_Bucket_SpriteAC3EA8DE489BF3282C0AD7904C8EB965.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/Acid_Bucket_Sprite.uasset'
+[2020.03.02-23.55.29:980][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/car_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/car_Sprite.uasset" SILENT=true
+[2020.03.02-23.55.29:986][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/car_SpriteF73F38B04F3F76FAFD73A6B3761A9E85.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/car_Sprite.uasset'
+[2020.03.02-23.55.29:997][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_BASIC_cropped_SpritCFCA6E13440D2E1E23D1E9A53638016A.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/JunkPlatform_BASIC_cropped_Sprite.uasset'
+[2020.03.02-23.55.30:003][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/JunkPlatform_BASIC_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/JunkPlatform_BASIC_Sprite.uasset" SILENT=true
+[2020.03.02-23.55.30:008][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_BASIC_SpriteB814028A41484C8F238475B60C69BF07.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/JunkPlatform_BASIC_Sprite.uasset'
+[2020.03.02-23.55.30:014][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/JunkPlatform_OFF_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/JunkPlatform_OFF_Sprite.uasset" SILENT=true
+[2020.03.02-23.55.30:019][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_OFF_Sprite4F4F407C4DCD28D6EAC16196ED369DA3.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/JunkPlatform_OFF_Sprite.uasset'
+[2020.03.02-23.55.30:025][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/JunkPlatform_ON_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/JunkPlatform_ON_Sprite.uasset" SILENT=true
+[2020.03.02-23.55.30:030][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_ON_Sprite7107CDF44FEB5919AEF1CFB3BC355944.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/JunkPlatform_ON_Sprite.uasset'
+[2020.03.02-23.55.30:036][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/Steel_Bar_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/Steel_Bar_Sprite.uasset" SILENT=true
+[2020.03.02-23.55.30:041][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Steel_Bar_Sprite8CB7EF014F960C28808D489CC32768DE.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/Steel_Bar_Sprite.uasset'
+[2020.03.02-23.55.30:047][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/StupidPipe_Heagney_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/StupidPipe_Heagney_Sprite.uasset" SILENT=true
+[2020.03.02-23.55.30:053][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/StupidPipe_Heagney_SpriteA2C6DD344D3741CD2CFC5289B5C1FD63.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/StupidPipe_Heagney_Sprite.uasset'
+[2020.03.02-23.55.30:060][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/Time_Warped_Tower_Fungi_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/Time_Warped_Tower_Fungi_Sprite.uasset" SILENT=true
+[2020.03.02-23.55.30:065][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Time_Warped_Tower_Fungi_Sprite8BB11CFB47FB428C355C66B173A7AAB5.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/Time_Warped_Tower_Fungi_Sprite.uasset'
+[2020.03.02-23.55.30:071][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/Yeargoods_Heagney_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/Yeargoods_Heagney_Sprite.uasset" SILENT=true
+[2020.03.02-23.55.30:078][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Yeargoods_Heagney_Sprite88FB7FCC488F936712B6CCB6E58A439E.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/Yeargoods_Heagney_Sprite.uasset'
+[2020.03.02-23.55.30:545][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.03.02-23.55.30:564][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.03.02-23.55.30:583][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.03.02-23.55.30:601][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.02-23.55.30:620][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.03.02-23.55.30:638][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.02-23.55.30:657][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.02-23.55.30:676][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.02-23.55.30:695][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.02-23.55.30:713][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.02-23.55.30:734][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.03.02-23.55.30:753][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.02-23.55.30:794][167]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/Acid_Bucket_Sprite.Acid_Bucket_Sprite
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/car_Sprite.car_Sprite
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/JunkPlatform_BASIC_cropped_Sprite.JunkPlatform_BASIC_cropped_Sprite
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/JunkPlatform_BASIC_Sprite.JunkPlatform_BASIC_Sprite
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/JunkPlatform_OFF_Sprite.JunkPlatform_OFF_Sprite
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/JunkPlatform_ON_Sprite.JunkPlatform_ON_Sprite
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/Steel_Bar_Sprite.Steel_Bar_Sprite
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/StupidPipe_Heagney_Sprite.StupidPipe_Heagney_Sprite
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/Time_Warped_Tower_Fungi_Sprite.Time_Warped_Tower_Fungi_Sprite
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/Yeargoods_Heagney_Sprite.Yeargoods_Heagney_Sprite
