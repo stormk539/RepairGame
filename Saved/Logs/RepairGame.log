@@ -989,3 +989,185 @@ Script Stack (0 frames):
 [2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/StupidPipe_Heagney_Sprite.StupidPipe_Heagney_Sprite
 [2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/Time_Warped_Tower_Fungi_Sprite.Time_Warped_Tower_Fungi_Sprite
 [2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/Yeargoods_Heagney_Sprite.Yeargoods_Heagney_Sprite
+[2020.03.03-00.00.03:674][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/backgroundsunset.png)
+[2020.03.03-00.00.03:698][243]LogTexture: Display: Building textures: backgroundsunset (AutoDXT, 1280X720)
+[2020.03.03-00.00.03:912][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/backgroundsunset1.png)
+[2020.03.03-00.00.03:932][243]LogTexture: Display: Building textures: backgroundsunset1 (AutoDXT, 1280X720)
+[2020.03.03-00.00.04:080][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/MetalPlatform.png)
+[2020.03.03-00.00.04:194][243]LogTexture: Display: Building textures: MetalPlatform (AutoDXT, 3508X3508)
+[2020.03.03-00.00.04:691][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/SandPlatform.png)
+[2020.03.03-00.00.04:845][243]LogTexture: Display: Building textures: SandPlatform (AutoDXT, 3508X3508)
+[2020.03.03-00.00.05:483][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScapsIdle_01.png)
+[2020.03.03-00.00.05:644][243]LogTexture: Display: Building textures: ScapsIdle_01 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.06:201][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScapsIdle_02.png)
+[2020.03.03-00.00.06:353][243]LogTexture: Display: Building textures: ScapsIdle_02 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.06:912][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScapsIdle_03.png)
+[2020.03.03-00.00.07:065][243]LogTexture: Display: Building textures: ScapsIdle_03 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.07:638][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScapsIdle_04.png)
+[2020.03.03-00.00.07:806][243]LogTexture: Display: Building textures: ScapsIdle_04 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.08:403][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScapsIdle_05.png)
+[2020.03.03-00.00.08:562][243]LogTexture: Display: Building textures: ScapsIdle_05 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.09:154][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScapsIdle_06.png)
+[2020.03.03-00.00.09:310][243]LogTexture: Display: Building textures: ScapsIdle_06 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.09:957][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScapsIdle_07.png)
+[2020.03.03-00.00.10:135][243]LogTexture: Display: Building textures: ScapsIdle_07 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.10:735][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScapsIdle_08.png)
+[2020.03.03-00.00.10:904][243]LogTexture: Display: Building textures: ScapsIdle_08 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.11:506][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScapsIdle_09.png)
+[2020.03.03-00.00.11:658][243]LogTexture: Display: Building textures: ScapsIdle_09 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.12:261][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsClimb_01.png)
+[2020.03.03-00.00.12:417][243]LogTexture: Display: Building textures: ScrapsClimb_01 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.12:978][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsClimb_02.png)
+[2020.03.03-00.00.13:131][243]LogTexture: Display: Building textures: ScrapsClimb_02 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.13:692][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsClimb_03.png)
+[2020.03.03-00.00.13:864][243]LogTexture: Display: Building textures: ScrapsClimb_03 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.14:440][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsClimb_04.png)
+[2020.03.03-00.00.14:596][243]LogTexture: Display: Building textures: ScrapsClimb_04 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.15:167][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsClimb_05.png)
+[2020.03.03-00.00.15:323][243]LogTexture: Display: Building textures: ScrapsClimb_05 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.15:905][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsJump_01.png)
+[2020.03.03-00.00.16:056][243]LogTexture: Display: Building textures: ScrapsJump_01 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.16:623][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsJump_02.png)
+[2020.03.03-00.00.16:792][243]LogTexture: Display: Building textures: ScrapsJump_02 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.17:398][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsStand.png)
+[2020.03.03-00.00.17:551][243]LogTexture: Display: Building textures: ScrapsStand (AutoDXT, 3508X3508)
+[2020.03.03-00.00.18:100][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsWalk_01.png)
+[2020.03.03-00.00.18:257][243]LogTexture: Display: Building textures: ScrapsWalk_01 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.18:814][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsWalk_02.png)
+[2020.03.03-00.00.18:971][243]LogTexture: Display: Building textures: ScrapsWalk_02 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.19:539][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsWalk_03.png)
+[2020.03.03-00.00.19:697][243]LogTexture: Display: Building textures: ScrapsWalk_03 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.20:304][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsWalk_04.png)
+[2020.03.03-00.00.20:460][243]LogTexture: Display: Building textures: ScrapsWalk_04 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.21:046][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsWalk_05.png)
+[2020.03.03-00.00.21:207][243]LogTexture: Display: Building textures: ScrapsWalk_05 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.21:790][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsWalk_06.png)
+[2020.03.03-00.00.21:944][243]LogTexture: Display: Building textures: ScrapsWalk_06 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.22:537][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsWalk_07.png)
+[2020.03.03-00.00.22:691][243]LogTexture: Display: Building textures: ScrapsWalk_07 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.23:314][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsWalk_08.png)
+[2020.03.03-00.00.23:467][243]LogTexture: Display: Building textures: ScrapsWalk_08 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.24:078][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/SHOP.png)
+[2020.03.03-00.00.24:175][243]LogTexture: Display: Building textures: SHOP (BGRA8, 2953X2079)
+[2020.03.03-00.00.24:355][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/Sign.png)
+[2020.03.03-00.00.24:437][243]LogTexture: Display: Building textures: Sign (BGRA8, 2953X2079)
+[2020.03.03-00.00.43:275][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/MetalPlatform_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/MetalPlatform_Sprite.uasset" SILENT=true
+[2020.03.03-00.00.43:281][348]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/MetalPlatform_Sprite30600CF348DB2C1E51DC818689EEE0E9.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/MetalPlatform_Sprite.uasset'
+[2020.03.03-00.00.43:287][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/SandPlatform_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/SandPlatform_Sprite.uasset" SILENT=true
+[2020.03.03-00.00.43:292][348]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/SandPlatform_Sprite8CA316224F2C78818462FBAE4E8114A2.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/SandPlatform_Sprite.uasset'
+[2020.03.03-00.00.43:438][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.03.03-00.00.43:457][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.03.03-00.00.43:482][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.03.03-00.00.43:502][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.03-00.00.43:523][348]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.03-00.00.43:524][348]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/MetalPlatform_Sprite.MetalPlatform_Sprite
+[2020.03.03-00.00.43:524][348]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/SandPlatform_Sprite.SandPlatform_Sprite
+[2020.03.03-00.01.27:259][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScapsIdle_01_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_01_Sprite.uasset" SILENT=true
+[2020.03.03-00.01.27:265][164]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_01_Sprite97BD33464406575E9F1552B63ADB07EE.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_01_Sprite.uasset'
+[2020.03.03-00.01.27:273][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScapsIdle_02_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_02_Sprite.uasset" SILENT=true
+[2020.03.03-00.01.27:278][164]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_02_Sprite1D0F46FF4447EC530D0F2C8E8D6EBC74.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_02_Sprite.uasset'
+[2020.03.03-00.01.27:284][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScapsIdle_03_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_03_Sprite.uasset" SILENT=true
+[2020.03.03-00.01.27:291][164]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_03_Sprite24C0159E450FBE764808D2A7A940583D.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_03_Sprite.uasset'
+[2020.03.03-00.01.27:297][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScapsIdle_09_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_09_Sprite.uasset" SILENT=true
+[2020.03.03-00.01.27:303][164]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_09_SpriteC55DCB554650C662A053188B41999418.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_09_Sprite.uasset'
+[2020.03.03-00.01.27:309][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScapsIdle_08_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_08_Sprite.uasset" SILENT=true
+[2020.03.03-00.01.27:315][164]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_08_Sprite75B773464BE36E08E3093CA7BBB834EA.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_08_Sprite.uasset'
+[2020.03.03-00.01.27:321][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScapsIdle_07_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_07_Sprite.uasset" SILENT=true
+[2020.03.03-00.01.27:326][164]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_07_Sprite942E284D4D6D6F839FDF8EBE6F60DF74.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_07_Sprite.uasset'
+[2020.03.03-00.01.27:333][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScapsIdle_06_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_06_Sprite.uasset" SILENT=true
+[2020.03.03-00.01.27:338][164]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_06_SpriteDBA6FED940BCE7CCC6142B8FA6041A07.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_06_Sprite.uasset'
+[2020.03.03-00.01.27:345][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScapsIdle_05_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_05_Sprite.uasset" SILENT=true
+[2020.03.03-00.01.27:350][164]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_05_Sprite089E325E443FDB8FD052DAB19139E573.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_05_Sprite.uasset'
+[2020.03.03-00.01.27:357][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScapsIdle_04_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_04_Sprite.uasset" SILENT=true
+[2020.03.03-00.01.27:363][164]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_04_Sprite6572FB824310BABFFF43F9BD0FA31987.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_04_Sprite.uasset'
+[2020.03.03-00.01.27:772][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.03.03-00.01.27:793][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.03-00.01.27:811][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.03-00.01.27:829][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.03.03-00.01.27:848][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.03-00.01.27:867][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.03.03-00.01.27:886][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.03-00.01.27:905][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.03.03-00.01.27:924][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.03.03-00.01.27:948][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.03.03-00.01.27:965][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.03.03-00.01.28:003][164]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.03-00.01.28:003][164]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScapsIdle_01_Sprite.ScapsIdle_01_Sprite
+[2020.03.03-00.01.28:003][164]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScapsIdle_02_Sprite.ScapsIdle_02_Sprite
+[2020.03.03-00.01.28:003][164]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScapsIdle_03_Sprite.ScapsIdle_03_Sprite
+[2020.03.03-00.01.28:003][164]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScapsIdle_09_Sprite.ScapsIdle_09_Sprite
+[2020.03.03-00.01.28:003][164]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScapsIdle_08_Sprite.ScapsIdle_08_Sprite
+[2020.03.03-00.01.28:003][164]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScapsIdle_07_Sprite.ScapsIdle_07_Sprite
+[2020.03.03-00.01.28:003][164]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScapsIdle_06_Sprite.ScapsIdle_06_Sprite
+[2020.03.03-00.01.28:003][164]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScapsIdle_05_Sprite.ScapsIdle_05_Sprite
+[2020.03.03-00.01.28:003][164]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScapsIdle_04_Sprite.ScapsIdle_04_Sprite
+[2020.03.03-00.01.34:104][861]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(764)].
+[2020.03.03-00.01.52:136][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.03.03-00.01.53:959][970]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.03-00.01.54:040][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.03.03-00.01.58:278][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.03.03-00.01.59:271][443]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.03-00.01.59:330][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.03.03-00.02.12:893][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk_01_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_01_Sprite.uasset" SILENT=true
+[2020.03.03-00.02.12:899][838]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_01_Sprite8F9AA3A04CC8EBE65108C1AF4BEE01FE.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_01_Sprite.uasset'
+[2020.03.03-00.02.12:906][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk_02_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_02_Sprite.uasset" SILENT=true
+[2020.03.03-00.02.12:912][838]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_02_Sprite1459F587479DDFD0FCF459A10F5AABFD.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_02_Sprite.uasset'
+[2020.03.03-00.02.12:918][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk_03_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_03_Sprite.uasset" SILENT=true
+[2020.03.03-00.02.12:924][838]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_03_Sprite0DD64B324D346EF0ED6FC0BEB03E0383.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_03_Sprite.uasset'
+[2020.03.03-00.02.12:931][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk_04_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_04_Sprite.uasset" SILENT=true
+[2020.03.03-00.02.12:937][838]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_04_SpriteF5125D904881522F1F74E0A08FE071D4.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_04_Sprite.uasset'
+[2020.03.03-00.02.12:943][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk_05_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_05_Sprite.uasset" SILENT=true
+[2020.03.03-00.02.12:948][838]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_05_SpriteE774FFBE4E00F522802264B881A98313.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_05_Sprite.uasset'
+[2020.03.03-00.02.12:955][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk_06_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_06_Sprite.uasset" SILENT=true
+[2020.03.03-00.02.12:960][838]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_06_SpriteDBE57443405C551C4D5C1EA7AAF2B37D.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_06_Sprite.uasset'
+[2020.03.03-00.02.12:966][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk_07_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_07_Sprite.uasset" SILENT=true
+[2020.03.03-00.02.12:971][838]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_07_SpriteC2B0A8ED41583D1D5A29F4A3216018C3.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_07_Sprite.uasset'
+[2020.03.03-00.02.12:977][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk_08_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_08_Sprite.uasset" SILENT=true
+[2020.03.03-00.02.13:001][838]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_08_SpriteF96D7F7944DAC4143C6DAA864674819C.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_08_Sprite.uasset'
+[2020.03.03-00.02.13:376][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.03.03-00.02.13:396][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.03-00.02.13:417][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.03.03-00.02.13:436][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.03.03-00.02.13:455][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.03-00.02.13:474][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.03-00.02.13:493][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.03-00.02.13:511][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.03-00.02.13:534][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.03.03-00.02.13:554][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.03-00.02.13:589][838]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.03-00.02.13:589][838]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScrapsWalk_01_Sprite.ScrapsWalk_01_Sprite
+[2020.03.03-00.02.13:589][838]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScrapsWalk_02_Sprite.ScrapsWalk_02_Sprite
+[2020.03.03-00.02.13:589][838]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScrapsWalk_03_Sprite.ScrapsWalk_03_Sprite
+[2020.03.03-00.02.13:590][838]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScrapsWalk_04_Sprite.ScrapsWalk_04_Sprite
+[2020.03.03-00.02.13:590][838]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScrapsWalk_05_Sprite.ScrapsWalk_05_Sprite
+[2020.03.03-00.02.13:590][838]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScrapsWalk_06_Sprite.ScrapsWalk_06_Sprite
+[2020.03.03-00.02.13:590][838]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScrapsWalk_07_Sprite.ScrapsWalk_07_Sprite
+[2020.03.03-00.02.13:590][838]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScrapsWalk_08_Sprite.ScrapsWalk_08_Sprite
+[2020.03.03-00.02.26:105][312]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(764)].
+[2020.03.03-00.03.02:860][582]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.03-00.03.04:363][755]LogSlate: Window 'Extract sprites' being destroyed
+[2020.03.03-00.03.05:688][913]LogSlate: Window 'Extract sprites' being destroyed
+[2020.03.03-00.03.16:111][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Backgrounds/backgroundsunset1_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Backgrounds/backgroundsunset1_Sprite.uasset" SILENT=true
+[2020.03.03-00.03.16:118][105]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/backgroundsunset1_SpriteCAA6C677481B9DDB2490FBA1FE4FAEB1.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Backgrounds/backgroundsunset1_Sprite.uasset'
+[2020.03.03-00.03.16:124][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Backgrounds/backgroundsunset_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Backgrounds/backgroundsunset_Sprite.uasset" SILENT=true
+[2020.03.03-00.03.16:131][105]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/backgroundsunset_Sprite8543350C4A01DF4A8D2FE9AC16E69740.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Backgrounds/backgroundsunset_Sprite.uasset'
+[2020.03.03-00.03.16:277][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.03.03-00.03.16:297][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.03.03-00.03.16:320][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.03.03-00.03.16:341][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.03-00.03.16:364][105]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.03-00.03.16:364][105]LogContentValidation: Display: Validating PaperSprite /Game/Backgrounds/backgroundsunset1_Sprite.backgroundsunset1_Sprite
+[2020.03.03-00.03.16:364][105]LogContentValidation: Display: Validating PaperSprite /Game/Backgrounds/backgroundsunset_Sprite.backgroundsunset_Sprite
+[2020.03.03-00.03.24:801][999]LogSlate: Window 'Extract sprites' being destroyed
+[2020.03.03-00.03.25:335][ 62]LogSlate: Window 'Extract sprites' being destroyed
+[2020.03.03-00.03.33:112][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Backgrounds/SHOP_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Backgrounds/SHOP_Sprite.uasset" SILENT=true
+[2020.03.03-00.03.33:117][920]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/SHOP_Sprite65139AFC49BCD383FE42EF971BB6DDAC.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Backgrounds/SHOP_Sprite.uasset'
+[2020.03.03-00.03.33:124][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Backgrounds/Sign_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Backgrounds/Sign_Sprite.uasset" SILENT=true
+[2020.03.03-00.03.33:130][920]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Sign_Sprite60D22D0C4D2EB035385A9F89B2F3FCF2.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Backgrounds/Sign_Sprite.uasset'
+[2020.03.03-00.03.33:277][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.03.03-00.03.33:297][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.03-00.03.33:322][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.03.03-00.03.33:341][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.03.03-00.03.33:364][920]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.03-00.03.33:364][920]LogContentValidation: Display: Validating PaperSprite /Game/Backgrounds/SHOP_Sprite.SHOP_Sprite
+[2020.03.03-00.03.33:364][920]LogContentValidation: Display: Validating PaperSprite /Game/Backgrounds/Sign_Sprite.Sign_Sprite
