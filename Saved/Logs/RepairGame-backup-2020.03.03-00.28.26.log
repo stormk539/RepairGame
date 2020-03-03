@@ -1,0 +1,1359 @@
+﻿Log file open, 03/02/20 18:42:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RepairGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.067697
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Engine.ini]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Engine.ini]
+[2020.03.02-23.42.10:847][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Engine.ini]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Engine.ini]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.02-23.42.10:847][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Engine.ini]
+[2020.03.02-23.42.10:847][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Engine.ini]
+[2020.03.02-23.42.10:849][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-23.42.10:849][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.02-23.42.10:849][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.02-23.42.10:849][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-23.42.10:849][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.02-23.42.10:849][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-23.42.10:849][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.02-23.42.10:849][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.02-23.42.10:849][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.02-23.42.10:849][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.02-23.42.10:849][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.02-23.42.10:849][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.02-23.42.10:850][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.02-23.42.10:850][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.02-23.42.10:851][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.02-23.42.10:853][  0]LogHAL: Display: Platform has ~ 32 GB [34301571072 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.02-23.42.10:853][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.02-23.42.10:853][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.02-23.42.10:853][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.02-23.42.10:854][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/skaffenb/Desktop/RepairGame/Saved/Config/Windows/Engine.ini]
+[2020.03.02-23.42.10:854][  0]LogInit: Computer: NQSCGL-MSI-IN
+[2020.03.02-23.42.10:854][  0]LogInit: User: skaffenb
+[2020.03.02-23.42.10:854][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.02-23.42.10:854][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.02-23.42.10:855][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.03.02-23.42.10:855][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.02-23.42.10:855][  0]LogMemory: Process Physical Memory: 104.02 MB used, 104.03 MB peak
+[2020.03.02-23.42.10:855][  0]LogMemory: Process Virtual Memory: 100.57 MB used, 100.57 MB peak
+[2020.03.02-23.42.10:855][  0]LogMemory: Physical Memory: 8084.29 MB used,  24628.24 MB free, 32712.53 MB total
+[2020.03.02-23.42.10:855][  0]LogMemory: Virtual Memory: 5137.67 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.03.02-23.42.10:857][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.02-23.42.10:871][  0]LogInit: Using OS detected language (en-US).
+[2020.03.02-23.42.10:871][  0]LogInit: Using OS detected locale (en-US).
+[2020.03.02-23.42.10:872][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.02-23.42.11:005][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.02-23.42.11:028][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.02-23.42.11:028][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.02-23.42.11:244][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.02-23.42.11:244][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.02-23.42.11:244][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.02-23.42.11:244][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.02-23.42.11:316][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.03.02-23.42.11:316][  0]LogD3D11RHI:       8088/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.02-23.42.11:318][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.02-23.42.11:318][  0]LogD3D11RHI:       0/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.02-23.42.11:318][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.02-23.42.11:323][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.02-23.42.11:323][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.02-23.42.11:323][  0]LogWindows: EnumDisplayDevices:
+[2020.03.02-23.42.11:323][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.03.02-23.42.11:324][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.03.02-23.42.11:324][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.03.02-23.42.11:324][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.03.02-23.42.11:324][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.02-23.42.11:324][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.03.02-23.42.11:324][  0]LogD3D11RHI:   Driver Version: 431.70 (internal:26.21.14.3170, unified:431.70)
+[2020.03.02-23.42.11:324][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.03.02-23.42.11:324][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.03.02-23.42.11:369][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.02-23.42.11:369][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.02-23.42.11:383][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.02-23.42.11:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.02-23.42.11:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.02-23.42.11:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.02-23.42.11:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.02-23.42.11:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.02-23.42.11:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.02-23.42.11:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.02-23.42.11:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.02-23.42.11:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.02-23.42.11:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.02-23.42.11:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.02-23.42.11:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.02-23.42.11:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.02-23.42.11:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.02-23.42.11:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.02-23.42.11:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.02-23.42.11:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.02-23.42.11:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.02-23.42.11:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.02-23.42.11:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.02-23.42.11:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.02-23.42.11:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.02-23.42.11:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.02-23.42.11:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.02-23.42.11:771][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.02-23.42.11:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.02-23.42.11:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.02-23.42.11:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.02-23.42.11:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.02-23.42.11:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.02-23.42.11:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.02-23.42.11:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.02-23.42.11:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.02-23.42.11:836][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.02-23.42.11:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.02-23.42.11:842][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.02-23.42.11:845][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.02-23.42.11:867][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../../Users/skaffenb/Desktop/RepairGame/Intermediate/Shaders/WorkingDirectory/16468/).
+[2020.03.02-23.42.11:867][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/skaffenb/AppData/Local/Temp/UnrealShaderWorkingDir/E25420EE4BB1A6F8C55E019FB7D183A7/'.
+[2020.03.02-23.42.11:868][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.02-23.42.11:868][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.02-23.42.11:868][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.02-23.42.12:521][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.02-23.42.12:567][  0]LogDerivedDataCache: Loaded boot cache 0.05s 79MB C:/Users/skaffenb/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.02-23.42.12:567][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/skaffenb/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.02-23.42.12:568][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/skaffenb/Desktop/RepairGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.02-23.42.12:568][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.02-23.42.12:568][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/skaffenb/Desktop/RepairGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.02-23.42.12:568][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.02-23.42.12:576][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.02-23.42.12:576][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.02-23.42.12:576][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.02-23.42.12:578][  0]LogDerivedDataCache: Using Local data cache path C:/Users/skaffenb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.02-23.42.12:578][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.02-23.42.12:578][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.02-23.42.12:600][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.02-23.42.12:602][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.02-23.42.12:603][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.02-23.42.12:667][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.03.02-23.42.12:898][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.02-23.42.13:030][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.02-23.42.13:030][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.02-23.42.13:030][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.02-23.42.13:030][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.02-23.42.13:030][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.02-23.42.13:051][  0]LogNetVersion: RepairGame 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1026296452)
+[2020.03.02-23.42.14:195][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.033689 seconds
+[2020.03.02-23.42.14:201][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.03.02-23.42.14:201][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.03.02-23.42.14:201][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.02-23.42.14:538][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.02-23.42.14:568][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.02-23.42.14:616][  0]SourceControl: Source control is disabled
+[2020.03.02-23.42.14:616][  0]SourceControl: Source control is disabled
+[2020.03.02-23.42.14:617][  0]SourceControl: Source control is disabled
+[2020.03.02-23.42.14:618][  0]SourceControl: Source control is disabled
+[2020.03.02-23.42.14:619][  0]SourceControl: Source control is disabled
+[2020.03.02-23.42.14:625][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.02-23.42.14:626][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.02-23.42.14:692][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.02-23.42.14:701][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.02-23.42.14:701][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.02-23.42.14:770][  0]LogOcInput: OculusInput pre-init called
+[2020.03.02-23.42.14:776][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.02-23.42.14:777][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.02-23.42.14:832][  0]LogEngine: Initializing Engine...
+[2020.03.02-23.42.14:833][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.02-23.42.14:834][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.02-23.42.15:108][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.02-23.42.15:114][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.02-23.42.15:175][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.02-23.42.15:175][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.02-23.42.15:175][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.02-23.42.15:175][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.02-23.42.15:175][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.02-23.42.15:175][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.02-23.42.15:175][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.02-23.42.15:175][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.02-23.42.15:175][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.02-23.42.15:175][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.02-23.42.15:197][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.02-23.42.15:197][  0]LogAudioMixer: Display: Name: ExtronScalerD (2- NVIDIA High Definition Audio)
+[2020.03.02-23.42.15:197][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.02-23.42.15:197][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.02-23.42.15:197][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.02-23.42.15:197][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.02-23.42.15:197][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.02-23.42.15:197][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.02-23.42.15:197][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.02-23.42.15:228][  0]LogAudioMixer: Display: Using Audio Device ExtronScalerD (2- NVIDIA High Definition Audio)
+[2020.03.02-23.42.15:233][  0]LogInit: FAudioDevice initialized.
+[2020.03.02-23.42.15:233][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.02-23.42.16:104][  0]LogDerivedDataCache: Saved boot cache 0.87s 78MB C:/Users/skaffenb/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.02-23.42.16:104][  0]LogInit: Texture streaming: Enabled
+[2020.03.02-23.42.16:114][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.02-23.42.16:115][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.02-23.42.16:122][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.02-23.42.16:133][  0]LogInit: Transaction tracking system initialized
+[2020.03.02-23.42.16:142][  0]BlueprintLog: New page: Editor Load
+[2020.03.02-23.42.16:216][  0]LocalizationService: Localization service is disabled
+[2020.03.02-23.42.16:292][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.02-23.42.16:293][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.03.02-23.42.16:480][  0]LogFileCache: Scanning file cache for directory 'C:/Users/skaffenb/Desktop/RepairGame/Content/' took 0.00s
+[2020.03.02-23.42.16:480][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.02-23.42.16:481][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.02-23.42.17:259][  0]SourceControl: Source control is disabled
+[2020.03.02-23.42.17:260][  0]Cmd: MAP LOAD FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.02-23.42.17:260][  0]LightingResults: New page: Lighting Build
+[2020.03.02-23.42.17:260][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.02-23.42.17:261][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.02-23.42.17:261][  0]MapCheck: New page: Map Check
+[2020.03.02-23.42.17:261][  0]LightingResults: New page: Lighting Build
+[2020.03.02-23.42.17:282][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.03.02-23.42.17:589][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.02-23.42.17:592][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.02-23.42.17:614][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.03.02-23.42.17:615][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.02-23.42.17:615][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
+[2020.03.02-23.42.17:615][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.356
+[2020.03.02-23.42.17:807][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-23.42.17:813][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-23.42.17:818][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-23.42.17:823][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.02-23.42.17:831][  0]LogCollectionManager: Loaded 0 collections in 0.001615 seconds
+[2020.03.02-23.42.17:868][  0]LogFileCache: Scanning file cache for directory 'C:/Users/skaffenb/Desktop/RepairGame/Saved/Collections/' took 0.00s
+[2020.03.02-23.42.17:868][  0]LogFileCache: Scanning file cache for directory 'C:/Users/skaffenb/Desktop/RepairGame/Content/Developers/skaffenb/Collections/' took 0.00s
+[2020.03.02-23.42.17:868][  0]LogFileCache: Scanning file cache for directory 'C:/Users/skaffenb/Desktop/RepairGame/Content/Collections/' took 0.00s
+[2020.03.02-23.42.17:868][  0]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 3015 classes and 717 folders.
+[2020.03.02-23.42.17:870][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.02-23.42.17:925][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.02-23.42.18:282][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.03.02-23.42.18:332][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.02-23.42.18:334][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.02-23.42.18:352][  0]LogSlate: Took 0.015181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.02-23.42.18:448][  0]LogRenderer: Reallocating scene render targets to support 896x572 Format 10 NumSamples 1 (Frame:1).
+[2020.03.02-23.42.18:568][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.02-23.42.18:568][  0]LogLoad: (Engine Initialization) Total time: 8.94 seconds
+[2020.03.02-23.42.18:568][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.02-23.42.18:592][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.02-23.42.18:657][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.02-23.42.25:578][830]LogAssetRegistry: Asset discovery search completed in 12.9118 seconds
+[2020.03.02-23.42.25:581][830]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.03.02-23.42.31:900][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.02-23.43.30:591][172]LogRenderer: Reallocating scene render targets to support 900x572 Format 10 NumSamples 1 (Frame:2857).
+[2020.03.02-23.43.30:639][173]LogRenderer: Reallocating scene render targets to support 904x572 Format 10 NumSamples 1 (Frame:2859).
+[2020.03.02-23.43.30:657][174]LogRenderer: Reallocating scene render targets to support 944x572 Format 10 NumSamples 1 (Frame:2861).
+[2020.03.02-23.43.30:677][175]LogRenderer: Reallocating scene render targets to support 968x572 Format 10 NumSamples 1 (Frame:2863).
+[2020.03.02-23.43.30:698][176]LogRenderer: Reallocating scene render targets to support 992x572 Format 10 NumSamples 1 (Frame:2865).
+[2020.03.02-23.43.30:720][177]LogRenderer: Reallocating scene render targets to support 1016x572 Format 10 NumSamples 1 (Frame:2867).
+[2020.03.02-23.43.30:739][178]LogRenderer: Reallocating scene render targets to support 1028x572 Format 10 NumSamples 1 (Frame:2869).
+[2020.03.02-23.43.30:759][179]LogRenderer: Reallocating scene render targets to support 1032x572 Format 10 NumSamples 1 (Frame:2871).
+[2020.03.02-23.43.30:777][180]LogRenderer: Reallocating scene render targets to support 1040x572 Format 10 NumSamples 1 (Frame:2873).
+[2020.03.02-23.43.30:798][181]LogRenderer: Reallocating scene render targets to support 1048x572 Format 10 NumSamples 1 (Frame:2875).
+[2020.03.02-23.43.30:817][182]LogRenderer: Reallocating scene render targets to support 1056x572 Format 10 NumSamples 1 (Frame:2877).
+[2020.03.02-23.43.30:834][183]LogRenderer: Reallocating scene render targets to support 1064x572 Format 10 NumSamples 1 (Frame:2879).
+[2020.03.02-23.43.30:852][184]LogRenderer: Reallocating scene render targets to support 1072x572 Format 10 NumSamples 1 (Frame:2881).
+[2020.03.02-23.43.30:870][185]LogRenderer: Reallocating scene render targets to support 1076x572 Format 10 NumSamples 1 (Frame:2883).
+[2020.03.02-23.43.30:887][186]LogRenderer: Reallocating scene render targets to support 1084x572 Format 10 NumSamples 1 (Frame:2885).
+[2020.03.02-23.43.30:905][187]LogRenderer: Reallocating scene render targets to support 1096x572 Format 10 NumSamples 1 (Frame:2887).
+[2020.03.02-23.43.30:924][188]LogRenderer: Reallocating scene render targets to support 1104x572 Format 10 NumSamples 1 (Frame:2889).
+[2020.03.02-23.43.30:941][189]LogRenderer: Reallocating scene render targets to support 1112x572 Format 10 NumSamples 1 (Frame:2891).
+[2020.03.02-23.43.30:981][191]LogRenderer: Reallocating scene render targets to support 1116x572 Format 10 NumSamples 1 (Frame:2895).
+[2020.03.02-23.43.30:999][192]LogRenderer: Reallocating scene render targets to support 1120x572 Format 10 NumSamples 1 (Frame:2897).
+[2020.03.02-23.43.31:018][193]LogRenderer: Reallocating scene render targets to support 1136x572 Format 10 NumSamples 1 (Frame:2899).
+[2020.03.02-23.43.31:034][194]LogRenderer: Reallocating scene render targets to support 1144x572 Format 10 NumSamples 1 (Frame:2901).
+[2020.03.02-23.43.31:053][195]LogRenderer: Reallocating scene render targets to support 1152x572 Format 10 NumSamples 1 (Frame:2903).
+[2020.03.02-23.43.31:069][196]LogRenderer: Reallocating scene render targets to support 1160x572 Format 10 NumSamples 1 (Frame:2905).
+[2020.03.02-23.43.31:087][197]LogRenderer: Reallocating scene render targets to support 1176x572 Format 10 NumSamples 1 (Frame:2907).
+[2020.03.02-23.43.31:104][198]LogRenderer: Reallocating scene render targets to support 1212x572 Format 10 NumSamples 1 (Frame:2909).
+[2020.03.02-23.43.31:122][199]LogRenderer: Reallocating scene render targets to support 1236x572 Format 10 NumSamples 1 (Frame:2911).
+[2020.03.02-23.43.31:138][200]LogRenderer: Reallocating scene render targets to support 1252x572 Format 10 NumSamples 1 (Frame:2913).
+[2020.03.02-23.43.31:157][201]LogRenderer: Reallocating scene render targets to support 1268x572 Format 10 NumSamples 1 (Frame:2915).
+[2020.03.02-23.43.31:173][202]LogRenderer: Reallocating scene render targets to support 1284x572 Format 10 NumSamples 1 (Frame:2917).
+[2020.03.02-23.43.31:191][203]LogRenderer: Reallocating scene render targets to support 1300x572 Format 10 NumSamples 1 (Frame:2919).
+[2020.03.02-23.43.31:208][204]LogRenderer: Reallocating scene render targets to support 1316x572 Format 10 NumSamples 1 (Frame:2921).
+[2020.03.02-23.43.31:225][205]LogRenderer: Reallocating scene render targets to support 1320x572 Format 10 NumSamples 1 (Frame:2923).
+[2020.03.02-23.43.31:341][217]LogRenderer: Reallocating scene render targets to support 1324x572 Format 10 NumSamples 1 (Frame:2927).
+[2020.03.02-23.43.35:717][737]LogRenderer: Reallocating scene render targets to support 1328x572 Format 10 NumSamples 1 (Frame:3265).
+[2020.03.02-23.43.35:753][739]LogRenderer: Reallocating scene render targets to support 1336x572 Format 10 NumSamples 1 (Frame:3269).
+[2020.03.02-23.43.35:772][740]LogRenderer: Reallocating scene render targets to support 1344x572 Format 10 NumSamples 1 (Frame:3271).
+[2020.03.02-23.43.35:790][741]LogRenderer: Reallocating scene render targets to support 1356x572 Format 10 NumSamples 1 (Frame:3273).
+[2020.03.02-23.43.35:808][742]LogRenderer: Reallocating scene render targets to support 1364x572 Format 10 NumSamples 1 (Frame:3275).
+[2020.03.02-23.43.35:825][743]LogRenderer: Reallocating scene render targets to support 1368x572 Format 10 NumSamples 1 (Frame:3277).
+[2020.03.02-23.43.35:843][744]LogRenderer: Reallocating scene render targets to support 1372x572 Format 10 NumSamples 1 (Frame:3279).
+[2020.03.02-23.43.35:861][745]LogRenderer: Reallocating scene render targets to support 1376x572 Format 10 NumSamples 1 (Frame:3281).
+[2020.03.02-23.43.35:879][746]LogRenderer: Reallocating scene render targets to support 1380x572 Format 10 NumSamples 1 (Frame:3283).
+[2020.03.02-23.43.35:899][747]LogRenderer: Reallocating scene render targets to support 1384x572 Format 10 NumSamples 1 (Frame:3285).
+[2020.03.02-23.43.35:918][748]LogRenderer: Reallocating scene render targets to support 1388x572 Format 10 NumSamples 1 (Frame:3287).
+[2020.03.02-23.43.35:965][752]LogRenderer: Reallocating scene render targets to support 1396x572 Format 10 NumSamples 1 (Frame:3291).
+[2020.03.02-23.43.36:002][754]LogRenderer: Reallocating scene render targets to support 1400x572 Format 10 NumSamples 1 (Frame:3295).
+[2020.03.02-23.52.57:255][152]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.02-23.53.17:230][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/Acid_Bucket.png)
+[2020.03.02-23.53.17:275][272]LogTexture: Display: Building textures: Acid_Bucket (AutoDXT, 2100X1500)
+[2020.03.02-23.53.17:447][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/car.png)
+[2020.03.02-23.53.17:461][272]LogTexture: Display: Building textures: car (BGRA8, 1018X512)
+[2020.03.02-23.53.17:475][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/JunkPlatform BASIC cropped.png)
+[2020.03.02-23.53.17:477][272]LogTexture: Display: Building textures: JunkPlatform_BASIC_cropped (BGRA8, 259X180)
+[2020.03.02-23.53.17:481][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/JunkPlatform BASIC.png)
+[2020.03.02-23.53.17:482][272]LogTexture: Display: Building textures: JunkPlatform_BASIC (BGRA8, 259X237)
+[2020.03.02-23.53.17:487][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/JunkPlatform OFF.png)
+[2020.03.02-23.53.17:489][272]LogTexture: Display: Building textures: JunkPlatform_OFF (BGRA8, 259X237)
+[2020.03.02-23.53.17:494][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/JunkPlatform ON.png)
+[2020.03.02-23.53.17:495][272]LogTexture: Display: Building textures: JunkPlatform_ON (BGRA8, 259X237)
+[2020.03.02-23.53.17:500][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/Steel Bar.png)
+[2020.03.02-23.53.17:533][272]LogTexture: Display: Building textures: Steel_Bar (AutoDXT, 2100X1500)
+[2020.03.02-23.53.17:634][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/StupidPipe_Heagney.png)
+[2020.03.02-23.53.17:640][272]LogTexture: Display: Building textures: StupidPipe_Heagney (AutoDXT, 512X512)
+[2020.03.02-23.53.17:693][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/Time_Warped_Tower_Fungi.png)
+[2020.03.02-23.53.17:737][272]LogTexture: Display: Building textures: Time_Warped_Tower_Fungi (AutoDXT, 2100X1500)
+[2020.03.02-23.53.17:863][272]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/Yeargoods_Heagney.png)
+[2020.03.02-23.53.17:870][272]LogTexture: Display: Building textures: Yeargoods_Heagney (AutoDXT, 512X512)
+[2020.03.02-23.53.21:037][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.03.02-23.53.21:039][617]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.022
+[2020.03.02-23.53.21:040][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/Acid_Bucket] ([1] browsable assets)...
+[2020.03.02-23.53.21:042][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/Acid_Bucket.Acid_Bucket]
+[2020.03.02-23.53.21:042][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/Acid_Bucket]
+[2020.03.02-23.53.21:042][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/Acid_Bucket" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/Acid_Bucket_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.03.02-23.53.21:050][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Acid_Bucket_Auto12B69261A47D7B8F5D6CB6DA8C319566D.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/Acid_Bucket_Auto1.uasset'
+[2020.03.02-23.53.21:051][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/car] ([1] browsable assets)...
+[2020.03.02-23.53.21:053][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/car.car]
+[2020.03.02-23.53.21:053][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/car]
+[2020.03.02-23.53.21:053][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/car" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/car_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.03.02-23.53.21:058][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/car_Auto1CD906289435AB16B5EA72BB8746646B4.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/car_Auto1.uasset'
+[2020.03.02-23.53.21:059][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/JunkPlatform_BASIC_cropped] ([1] browsable assets)...
+[2020.03.02-23.53.21:062][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/JunkPlatform_BASIC_cropped.JunkPlatform_BASIC_cropped]
+[2020.03.02-23.53.21:062][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/JunkPlatform_BASIC_cropped]
+[2020.03.02-23.53.21:066][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_BASIC_cropped_Auto1C374F2CE41F262AD473ED083D16C4060.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/JunkPlatform_BASIC_cropped_Auto1.uasset'
+[2020.03.02-23.53.21:067][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/JunkPlatform_BASIC] ([1] browsable assets)...
+[2020.03.02-23.53.21:071][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/JunkPlatform_BASIC.JunkPlatform_BASIC]
+[2020.03.02-23.53.21:071][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/JunkPlatform_BASIC]
+[2020.03.02-23.53.21:076][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_BASIC_Auto11FFD12C34A7D9579805D55AE35C560A6.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/JunkPlatform_BASIC_Auto1.uasset'
+[2020.03.02-23.53.21:076][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/JunkPlatform_OFF] ([1] browsable assets)...
+[2020.03.02-23.53.21:081][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/JunkPlatform_OFF.JunkPlatform_OFF]
+[2020.03.02-23.53.21:081][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/JunkPlatform_OFF]
+[2020.03.02-23.53.21:085][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_OFF_Auto152C719844A0F4AA15B5DAD88A87F6235.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/JunkPlatform_OFF_Auto1.uasset'
+[2020.03.02-23.53.21:086][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/JunkPlatform_ON] ([1] browsable assets)...
+[2020.03.02-23.53.21:091][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/JunkPlatform_ON.JunkPlatform_ON]
+[2020.03.02-23.53.21:091][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/JunkPlatform_ON]
+[2020.03.02-23.53.21:095][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_ON_Auto1C22801244B0A19488D9017AFFF66B3E6.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/JunkPlatform_ON_Auto1.uasset'
+[2020.03.02-23.53.21:096][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/Steel_Bar] ([1] browsable assets)...
+[2020.03.02-23.53.21:098][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/Steel_Bar.Steel_Bar]
+[2020.03.02-23.53.21:098][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/Steel_Bar]
+[2020.03.02-23.53.21:098][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/Steel_Bar" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/Steel_Bar_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.03.02-23.53.21:104][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Steel_Bar_Auto16D3885364835A9D5E03D19914CC1B2C6.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/Steel_Bar_Auto1.uasset'
+[2020.03.02-23.53.21:105][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/StupidPipe_Heagney] ([1] browsable assets)...
+[2020.03.02-23.53.21:108][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/StupidPipe_Heagney.StupidPipe_Heagney]
+[2020.03.02-23.53.21:109][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/StupidPipe_Heagney]
+[2020.03.02-23.53.21:114][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/StupidPipe_Heagney_Auto10462516A4D963F35EA56BFBEBA84E3E6.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/StupidPipe_Heagney_Auto1.uasset'
+[2020.03.02-23.53.21:115][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/Time_Warped_Tower_Fungi] ([1] browsable assets)...
+[2020.03.02-23.53.21:116][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/Time_Warped_Tower_Fungi.Time_Warped_Tower_Fungi]
+[2020.03.02-23.53.21:116][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/Time_Warped_Tower_Fungi]
+[2020.03.02-23.53.21:123][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Time_Warped_Tower_Fungi_Auto105CDFD7A40422AA14588399B789EF115.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/Time_Warped_Tower_Fungi_Auto1.uasset'
+[2020.03.02-23.53.21:124][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Platforms/Yeargoods_Heagney] ([1] browsable assets)...
+[2020.03.02-23.53.21:128][617]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Platforms/Yeargoods_Heagney.Yeargoods_Heagney]
+[2020.03.02-23.53.21:128][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Platforms/Yeargoods_Heagney]
+[2020.03.02-23.53.21:134][617]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Yeargoods_Heagney_Auto118F780F544466D01D78754B8D8B7A37B.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Platforms/Yeargoods_Heagney_Auto1.uasset'
+[2020.03.02-23.53.21:135][617]LogFileHelpers: Auto-saving content packages took 0.097
+[2020.03.02-23.54.28:594][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\Steel Bar.png)
+[2020.03.02-23.54.28:628][492]LogTexture: Display: Building textures: Steel_Bar (AutoDXT, 2100X1500)
+[2020.03.02-23.54.28:727][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\StupidPipe_Heagney.png)
+[2020.03.02-23.54.28:732][492]LogTexture: Display: Building textures: StupidPipe_Heagney (AutoDXT, 512X512)
+[2020.03.02-23.54.28:785][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\Time_Warped_Tower_Fungi.png)
+[2020.03.02-23.54.28:832][492]LogTexture: Display: Building textures: Time_Warped_Tower_Fungi (AutoDXT, 2100X1500)
+[2020.03.02-23.54.28:977][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\Yeargoods_Heagney.png)
+[2020.03.02-23.54.28:983][492]LogTexture: Display: Building textures: Yeargoods_Heagney (AutoDXT, 512X512)
+[2020.03.02-23.54.29:058][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\Acid_Bucket.png)
+[2020.03.02-23.54.29:099][492]LogTexture: Display: Building textures: Acid_Bucket (AutoDXT, 2100X1500)
+[2020.03.02-23.54.29:271][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\car.png)
+[2020.03.02-23.54.29:283][492]LogTexture: Display: Building textures: car (BGRA8, 1018X512)
+[2020.03.02-23.54.29:294][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\JunkPlatform BASIC cropped.png)
+[2020.03.02-23.54.29:296][492]LogTexture: Display: Building textures: JunkPlatform_BASIC_cropped (BGRA8, 259X180)
+[2020.03.02-23.54.29:299][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\JunkPlatform BASIC.png)
+[2020.03.02-23.54.29:301][492]LogTexture: Display: Building textures: JunkPlatform_BASIC (BGRA8, 259X237)
+[2020.03.02-23.54.29:305][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\JunkPlatform OFF.png)
+[2020.03.02-23.54.29:307][492]LogTexture: Display: Building textures: JunkPlatform_OFF (BGRA8, 259X237)
+[2020.03.02-23.54.29:311][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\skaffenb\Desktop\JunkPlatform ON.png)
+[2020.03.02-23.54.29:313][492]LogTexture: Display: Building textures: JunkPlatform_ON (BGRA8, 259X237)
+[2020.03.02-23.54.45:348][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.03.02-23.54.47:354][178]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.02-23.54.48:611][178]LogUObjectGlobals: Force Deleting 10 Package(s):
+	Asset Name: /Game/Platforms/Acid_Bucket.Acid_Bucket
+	Asset Name: /Game/Platforms/car.car
+	Asset Name: /Game/Platforms/JunkPlatform_BASIC.JunkPlatform_BASIC
+	Asset Name: /Game/Platforms/JunkPlatform_BASIC_cropped.JunkPlatform_BASIC_cropped
+	Asset Name: /Game/Platforms/JunkPlatform_OFF.JunkPlatform_OFF
+	Asset Name: /Game/Platforms/JunkPlatform_ON.JunkPlatform_ON
+	Asset Name: /Game/Platforms/Steel_Bar.Steel_Bar
+	Asset Name: /Game/Platforms/StupidPipe_Heagney.StupidPipe_Heagney
+	Asset Name: /Game/Platforms/Time_Warped_Tower_Fungi.Time_Warped_Tower_Fungi
+	Asset Name: /Game/Platforms/Yeargoods_Heagney.Yeargoods_Heagney
+[2020.03.02-23.54.51:807][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.54.51:810][178]LogObjectTools: Warning: ForceDeleteObject failed to delete Acid_Bucket, queuing its package for reloading
+[2020.03.02-23.54.52:709][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.54.52:711][178]LogObjectTools: Warning: ForceDeleteObject failed to delete car, queuing its package for reloading
+[2020.03.02-23.54.53:779][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.54.53:782][178]LogObjectTools: Warning: ForceDeleteObject failed to delete JunkPlatform_BASIC, queuing its package for reloading
+[2020.03.02-23.54.55:272][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.54.55:274][178]LogObjectTools: Warning: ForceDeleteObject failed to delete JunkPlatform_BASIC_cropped, queuing its package for reloading
+[2020.03.02-23.54.56:602][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.54.56:605][178]LogObjectTools: Warning: ForceDeleteObject failed to delete JunkPlatform_OFF, queuing its package for reloading
+[2020.03.02-23.54.57:201][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.54.57:204][178]LogObjectTools: Warning: ForceDeleteObject failed to delete JunkPlatform_ON, queuing its package for reloading
+[2020.03.02-23.54.58:719][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.54.58:722][178]LogObjectTools: Warning: ForceDeleteObject failed to delete Steel_Bar, queuing its package for reloading
+[2020.03.02-23.55.00:136][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.55.00:139][178]LogObjectTools: Warning: ForceDeleteObject failed to delete StupidPipe_Heagney, queuing its package for reloading
+[2020.03.02-23.55.01:755][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.55.01:759][178]LogObjectTools: Warning: ForceDeleteObject failed to delete Time_Warped_Tower_Fungi, queuing its package for reloading
+[2020.03.02-23.55.02:402][178]LogSlate: Window 'Message' being destroyed
+[2020.03.02-23.55.02:405][178]LogObjectTools: Warning: ForceDeleteObject failed to delete Yeargoods_Heagney, queuing its package for reloading
+[2020.03.02-23.55.02:406][178]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.02-23.55.02:523][178]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.117 s
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: 
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: Ensure condition failed: PackagesToReload.Num() == 0 [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 2810]
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: Failed to unload all packages during ForceDeleteObjects
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: Stack: 
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5d35f8b9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5cc26928 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5c4416d7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5c6bce38 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5c6b6614 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fc41498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fc59281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fab323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb39175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb2413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb18f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c994ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c98242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c997195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c97ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fffab80681d USER32.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fffab806212 USER32.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c998569 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb44080 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fae1c85 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5c750ff6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5cc1a0fe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff5cc195c6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff4a304a9c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff4a426377 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.02-23.55.02:523][178]LogOutputDevice: Error: [Callstack] 0x00007fff4a403ba8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5faf6c6a UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fbd25be UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fbd8430 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fbb1b84 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fc41498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fc59281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fbd9b95 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fab323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb39175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb2413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb18f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c994ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c98242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c997195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c97ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fffab80681d USER32.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fffab806212 USER32.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c998699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007ff672626db0 UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007ff67263c3ec UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007ff67263c4ca UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007ff67264ceae UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007ff67264fcbe UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fffab1b7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: [Callstack] 0x00007fffabb4ce71 ntdll.dll!UnknownFunction []
+[2020.03.02-23.55.02:524][178]LogOutputDevice: Error: 
+[2020.03.02-23.55.02:531][178]LogStats:                SubmitErrorReport -  0.000 s
+[2020.03.02-23.55.05:463][178]LogStats:                    SendNewReport -  2.932 s
+[2020.03.02-23.55.05:463][178]LogStats:             FDebug::EnsureFailed -  3.057 s
+[2020.03.02-23.55.05:471][178]LogUObjectGlobals: Reloading 10 Package(s):
+	Asset Name: /Game/Platforms/Acid_Bucket
+	Asset Name: /Game/Platforms/car
+	Asset Name: /Game/Platforms/JunkPlatform_BASIC
+	Asset Name: /Game/Platforms/JunkPlatform_BASIC_cropped
+	Asset Name: /Game/Platforms/JunkPlatform_OFF
+	Asset Name: /Game/Platforms/JunkPlatform_ON
+	Asset Name: /Game/Platforms/Steel_Bar
+	Asset Name: /Game/Platforms/StupidPipe_Heagney
+	Asset Name: /Game/Platforms/Time_Warped_Tower_Fungi
+	Asset Name: /Game/Platforms/Yeargoods_Heagney
+[2020.03.02-23.55.05:494][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.03.02-23.55.05:496][178]LogLinker: Warning: Failed to load '/Game/Platforms/Acid_Bucket': Can't find file.
+[2020.03.02-23.55.05:496][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/Acid_Bucket' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:496][178]LogLinker: Warning: Failed to load '/Game/Platforms/car': Can't find file.
+[2020.03.02-23.55.05:496][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/car' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:593][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.02-23.55.05:594][178]LogLinker: Warning: Failed to load '/Game/Platforms/JunkPlatform_BASIC': Can't find file.
+[2020.03.02-23.55.05:594][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/JunkPlatform_BASIC' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:594][178]LogLinker: Warning: Failed to load '/Game/Platforms/JunkPlatform_BASIC_cropped': Can't find file.
+[2020.03.02-23.55.05:594][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/JunkPlatform_BASIC_cropped' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:691][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.03.02-23.55.05:693][178]LogLinker: Warning: Failed to load '/Game/Platforms/JunkPlatform_OFF': Can't find file.
+[2020.03.02-23.55.05:693][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/JunkPlatform_OFF' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:693][178]LogLinker: Warning: Failed to load '/Game/Platforms/JunkPlatform_ON': Can't find file.
+[2020.03.02-23.55.05:693][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/JunkPlatform_ON' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:790][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.02-23.55.05:790][178]LogLinker: Warning: Failed to load '/Game/Platforms/Steel_Bar': Can't find file.
+[2020.03.02-23.55.05:790][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/Steel_Bar' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:790][178]LogLinker: Warning: Failed to load '/Game/Platforms/StupidPipe_Heagney': Can't find file.
+[2020.03.02-23.55.05:790][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/StupidPipe_Heagney' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:887][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.03.02-23.55.05:888][178]LogLinker: Warning: Failed to load '/Game/Platforms/Time_Warped_Tower_Fungi': Can't find file.
+[2020.03.02-23.55.05:888][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/Time_Warped_Tower_Fungi' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:888][178]LogLinker: Warning: Failed to load '/Game/Platforms/Yeargoods_Heagney': Can't find file.
+[2020.03.02-23.55.05:888][178]LogUObjectGlobals: Warning: ReloadPackage cannot reload '/Game/Platforms/Yeargoods_Heagney' as the new package failed to load. The old package will be restored.
+[2020.03.02-23.55.05:997][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.03.02-23.55.05:998][178]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.02-23.55.06:003][178]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.005 s
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: 
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: Ensure condition failed: bSuccess [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 2815]
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: Failed to reload package as a last resort in ForceDeleteObjects
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: Stack: 
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5d35fd19 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5cc2696d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5c4416d7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5c6bce38 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5c6b6614 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fc41498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fc59281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fab323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb39175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb2413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb18f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c994ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c98242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c997195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c97ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fffab80681d USER32.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fffab806212 USER32.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c998569 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb44080 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fae1c85 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5c750ff6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5cc1a0fe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5cc195c6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff4a304a9c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff4a426377 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff4a403ba8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5faf6c6a UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fbd25be UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fbd8430 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fbb1b84 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fc41498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fc59281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fbd9b95 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fab323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb39175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb2413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff5fb18f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c994ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c98242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c997195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c97ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fffab80681d USER32.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fffab806212 USER32.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fff8c998699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007ff672626db0 UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007ff67263c3ec UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007ff67263c4ca UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007ff67264ceae UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007ff67264fcbe UE4Editor.exe!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fffab1b7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: [Callstack] 0x00007fffabb4ce71 ntdll.dll!UnknownFunction []
+[2020.03.02-23.55.06:003][178]LogOutputDevice: Error: 
+[2020.03.02-23.55.06:005][178]LogStats:                SubmitErrorReport -  0.000 s
+[2020.03.02-23.55.09:243][178]LogStats:                    SendNewReport -  3.239 s
+[2020.03.02-23.55.09:243][178]LogStats:             FDebug::EnsureFailed -  3.246 s
+[2020.03.02-23.55.13:866][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.03.02-23.55.16:664][675]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.02-23.55.16:806][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.03.02-23.55.29:966][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/Acid_Bucket_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/Acid_Bucket_Sprite.uasset" SILENT=true
+[2020.03.02-23.55.29:972][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Acid_Bucket_SpriteAC3EA8DE489BF3282C0AD7904C8EB965.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/Acid_Bucket_Sprite.uasset'
+[2020.03.02-23.55.29:980][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/car_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/car_Sprite.uasset" SILENT=true
+[2020.03.02-23.55.29:986][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/car_SpriteF73F38B04F3F76FAFD73A6B3761A9E85.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/car_Sprite.uasset'
+[2020.03.02-23.55.29:997][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_BASIC_cropped_SpritCFCA6E13440D2E1E23D1E9A53638016A.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/JunkPlatform_BASIC_cropped_Sprite.uasset'
+[2020.03.02-23.55.30:003][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/JunkPlatform_BASIC_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/JunkPlatform_BASIC_Sprite.uasset" SILENT=true
+[2020.03.02-23.55.30:008][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_BASIC_SpriteB814028A41484C8F238475B60C69BF07.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/JunkPlatform_BASIC_Sprite.uasset'
+[2020.03.02-23.55.30:014][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/JunkPlatform_OFF_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/JunkPlatform_OFF_Sprite.uasset" SILENT=true
+[2020.03.02-23.55.30:019][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_OFF_Sprite4F4F407C4DCD28D6EAC16196ED369DA3.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/JunkPlatform_OFF_Sprite.uasset'
+[2020.03.02-23.55.30:025][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/JunkPlatform_ON_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/JunkPlatform_ON_Sprite.uasset" SILENT=true
+[2020.03.02-23.55.30:030][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_ON_Sprite7107CDF44FEB5919AEF1CFB3BC355944.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/JunkPlatform_ON_Sprite.uasset'
+[2020.03.02-23.55.30:036][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/Steel_Bar_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/Steel_Bar_Sprite.uasset" SILENT=true
+[2020.03.02-23.55.30:041][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Steel_Bar_Sprite8CB7EF014F960C28808D489CC32768DE.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/Steel_Bar_Sprite.uasset'
+[2020.03.02-23.55.30:047][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/StupidPipe_Heagney_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/StupidPipe_Heagney_Sprite.uasset" SILENT=true
+[2020.03.02-23.55.30:053][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/StupidPipe_Heagney_SpriteA2C6DD344D3741CD2CFC5289B5C1FD63.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/StupidPipe_Heagney_Sprite.uasset'
+[2020.03.02-23.55.30:060][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/Time_Warped_Tower_Fungi_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/Time_Warped_Tower_Fungi_Sprite.uasset" SILENT=true
+[2020.03.02-23.55.30:065][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Time_Warped_Tower_Fungi_Sprite8BB11CFB47FB428C355C66B173A7AAB5.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/Time_Warped_Tower_Fungi_Sprite.uasset'
+[2020.03.02-23.55.30:071][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/Yeargoods_Heagney_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/Yeargoods_Heagney_Sprite.uasset" SILENT=true
+[2020.03.02-23.55.30:078][167]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Yeargoods_Heagney_Sprite88FB7FCC488F936712B6CCB6E58A439E.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/Yeargoods_Heagney_Sprite.uasset'
+[2020.03.02-23.55.30:545][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.03.02-23.55.30:564][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.03.02-23.55.30:583][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.03.02-23.55.30:601][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.02-23.55.30:620][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.03.02-23.55.30:638][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.02-23.55.30:657][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.02-23.55.30:676][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.02-23.55.30:695][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.02-23.55.30:713][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.02-23.55.30:734][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.03.02-23.55.30:753][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.02-23.55.30:794][167]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/Acid_Bucket_Sprite.Acid_Bucket_Sprite
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/car_Sprite.car_Sprite
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/JunkPlatform_BASIC_cropped_Sprite.JunkPlatform_BASIC_cropped_Sprite
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/JunkPlatform_BASIC_Sprite.JunkPlatform_BASIC_Sprite
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/JunkPlatform_OFF_Sprite.JunkPlatform_OFF_Sprite
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/JunkPlatform_ON_Sprite.JunkPlatform_ON_Sprite
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/Steel_Bar_Sprite.Steel_Bar_Sprite
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/StupidPipe_Heagney_Sprite.StupidPipe_Heagney_Sprite
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/Time_Warped_Tower_Fungi_Sprite.Time_Warped_Tower_Fungi_Sprite
+[2020.03.02-23.55.30:794][167]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/Yeargoods_Heagney_Sprite.Yeargoods_Heagney_Sprite
+[2020.03.03-00.00.03:674][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/backgroundsunset.png)
+[2020.03.03-00.00.03:698][243]LogTexture: Display: Building textures: backgroundsunset (AutoDXT, 1280X720)
+[2020.03.03-00.00.03:912][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/backgroundsunset1.png)
+[2020.03.03-00.00.03:932][243]LogTexture: Display: Building textures: backgroundsunset1 (AutoDXT, 1280X720)
+[2020.03.03-00.00.04:080][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/MetalPlatform.png)
+[2020.03.03-00.00.04:194][243]LogTexture: Display: Building textures: MetalPlatform (AutoDXT, 3508X3508)
+[2020.03.03-00.00.04:691][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/SandPlatform.png)
+[2020.03.03-00.00.04:845][243]LogTexture: Display: Building textures: SandPlatform (AutoDXT, 3508X3508)
+[2020.03.03-00.00.05:483][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScapsIdle_01.png)
+[2020.03.03-00.00.05:644][243]LogTexture: Display: Building textures: ScapsIdle_01 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.06:201][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScapsIdle_02.png)
+[2020.03.03-00.00.06:353][243]LogTexture: Display: Building textures: ScapsIdle_02 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.06:912][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScapsIdle_03.png)
+[2020.03.03-00.00.07:065][243]LogTexture: Display: Building textures: ScapsIdle_03 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.07:638][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScapsIdle_04.png)
+[2020.03.03-00.00.07:806][243]LogTexture: Display: Building textures: ScapsIdle_04 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.08:403][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScapsIdle_05.png)
+[2020.03.03-00.00.08:562][243]LogTexture: Display: Building textures: ScapsIdle_05 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.09:154][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScapsIdle_06.png)
+[2020.03.03-00.00.09:310][243]LogTexture: Display: Building textures: ScapsIdle_06 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.09:957][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScapsIdle_07.png)
+[2020.03.03-00.00.10:135][243]LogTexture: Display: Building textures: ScapsIdle_07 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.10:735][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScapsIdle_08.png)
+[2020.03.03-00.00.10:904][243]LogTexture: Display: Building textures: ScapsIdle_08 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.11:506][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScapsIdle_09.png)
+[2020.03.03-00.00.11:658][243]LogTexture: Display: Building textures: ScapsIdle_09 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.12:261][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsClimb_01.png)
+[2020.03.03-00.00.12:417][243]LogTexture: Display: Building textures: ScrapsClimb_01 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.12:978][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsClimb_02.png)
+[2020.03.03-00.00.13:131][243]LogTexture: Display: Building textures: ScrapsClimb_02 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.13:692][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsClimb_03.png)
+[2020.03.03-00.00.13:864][243]LogTexture: Display: Building textures: ScrapsClimb_03 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.14:440][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsClimb_04.png)
+[2020.03.03-00.00.14:596][243]LogTexture: Display: Building textures: ScrapsClimb_04 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.15:167][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsClimb_05.png)
+[2020.03.03-00.00.15:323][243]LogTexture: Display: Building textures: ScrapsClimb_05 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.15:905][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsJump_01.png)
+[2020.03.03-00.00.16:056][243]LogTexture: Display: Building textures: ScrapsJump_01 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.16:623][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsJump_02.png)
+[2020.03.03-00.00.16:792][243]LogTexture: Display: Building textures: ScrapsJump_02 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.17:398][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsStand.png)
+[2020.03.03-00.00.17:551][243]LogTexture: Display: Building textures: ScrapsStand (AutoDXT, 3508X3508)
+[2020.03.03-00.00.18:100][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsWalk_01.png)
+[2020.03.03-00.00.18:257][243]LogTexture: Display: Building textures: ScrapsWalk_01 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.18:814][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsWalk_02.png)
+[2020.03.03-00.00.18:971][243]LogTexture: Display: Building textures: ScrapsWalk_02 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.19:539][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsWalk_03.png)
+[2020.03.03-00.00.19:697][243]LogTexture: Display: Building textures: ScrapsWalk_03 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.20:304][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsWalk_04.png)
+[2020.03.03-00.00.20:460][243]LogTexture: Display: Building textures: ScrapsWalk_04 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.21:046][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsWalk_05.png)
+[2020.03.03-00.00.21:207][243]LogTexture: Display: Building textures: ScrapsWalk_05 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.21:790][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsWalk_06.png)
+[2020.03.03-00.00.21:944][243]LogTexture: Display: Building textures: ScrapsWalk_06 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.22:537][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsWalk_07.png)
+[2020.03.03-00.00.22:691][243]LogTexture: Display: Building textures: ScrapsWalk_07 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.23:314][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/ScrapsWalk_08.png)
+[2020.03.03-00.00.23:467][243]LogTexture: Display: Building textures: ScrapsWalk_08 (AutoDXT, 3508X3508)
+[2020.03.03-00.00.24:078][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/SHOP.png)
+[2020.03.03-00.00.24:175][243]LogTexture: Display: Building textures: SHOP (BGRA8, 2953X2079)
+[2020.03.03-00.00.24:355][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/skaffenb/Desktop/Sign.png)
+[2020.03.03-00.00.24:437][243]LogTexture: Display: Building textures: Sign (BGRA8, 2953X2079)
+[2020.03.03-00.00.43:275][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/MetalPlatform_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/MetalPlatform_Sprite.uasset" SILENT=true
+[2020.03.03-00.00.43:281][348]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/MetalPlatform_Sprite30600CF348DB2C1E51DC818689EEE0E9.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/MetalPlatform_Sprite.uasset'
+[2020.03.03-00.00.43:287][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Platforms/SandPlatform_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/SandPlatform_Sprite.uasset" SILENT=true
+[2020.03.03-00.00.43:292][348]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/SandPlatform_Sprite8CA316224F2C78818462FBAE4E8114A2.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Platforms/SandPlatform_Sprite.uasset'
+[2020.03.03-00.00.43:438][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.03.03-00.00.43:457][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.03.03-00.00.43:482][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.03.03-00.00.43:502][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.03-00.00.43:523][348]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.03-00.00.43:524][348]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/MetalPlatform_Sprite.MetalPlatform_Sprite
+[2020.03.03-00.00.43:524][348]LogContentValidation: Display: Validating PaperSprite /Game/Platforms/SandPlatform_Sprite.SandPlatform_Sprite
+[2020.03.03-00.01.27:259][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScapsIdle_01_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_01_Sprite.uasset" SILENT=true
+[2020.03.03-00.01.27:265][164]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_01_Sprite97BD33464406575E9F1552B63ADB07EE.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_01_Sprite.uasset'
+[2020.03.03-00.01.27:273][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScapsIdle_02_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_02_Sprite.uasset" SILENT=true
+[2020.03.03-00.01.27:278][164]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_02_Sprite1D0F46FF4447EC530D0F2C8E8D6EBC74.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_02_Sprite.uasset'
+[2020.03.03-00.01.27:284][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScapsIdle_03_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_03_Sprite.uasset" SILENT=true
+[2020.03.03-00.01.27:291][164]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_03_Sprite24C0159E450FBE764808D2A7A940583D.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_03_Sprite.uasset'
+[2020.03.03-00.01.27:297][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScapsIdle_09_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_09_Sprite.uasset" SILENT=true
+[2020.03.03-00.01.27:303][164]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_09_SpriteC55DCB554650C662A053188B41999418.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_09_Sprite.uasset'
+[2020.03.03-00.01.27:309][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScapsIdle_08_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_08_Sprite.uasset" SILENT=true
+[2020.03.03-00.01.27:315][164]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_08_Sprite75B773464BE36E08E3093CA7BBB834EA.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_08_Sprite.uasset'
+[2020.03.03-00.01.27:321][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScapsIdle_07_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_07_Sprite.uasset" SILENT=true
+[2020.03.03-00.01.27:326][164]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_07_Sprite942E284D4D6D6F839FDF8EBE6F60DF74.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_07_Sprite.uasset'
+[2020.03.03-00.01.27:333][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScapsIdle_06_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_06_Sprite.uasset" SILENT=true
+[2020.03.03-00.01.27:338][164]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_06_SpriteDBA6FED940BCE7CCC6142B8FA6041A07.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_06_Sprite.uasset'
+[2020.03.03-00.01.27:345][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScapsIdle_05_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_05_Sprite.uasset" SILENT=true
+[2020.03.03-00.01.27:350][164]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_05_Sprite089E325E443FDB8FD052DAB19139E573.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_05_Sprite.uasset'
+[2020.03.03-00.01.27:357][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScapsIdle_04_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_04_Sprite.uasset" SILENT=true
+[2020.03.03-00.01.27:363][164]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_04_Sprite6572FB824310BABFFF43F9BD0FA31987.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScapsIdle_04_Sprite.uasset'
+[2020.03.03-00.01.27:772][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.03.03-00.01.27:793][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.03-00.01.27:811][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.03-00.01.27:829][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.03.03-00.01.27:848][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.03-00.01.27:867][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.03.03-00.01.27:886][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.03-00.01.27:905][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.03.03-00.01.27:924][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.03.03-00.01.27:948][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.03.03-00.01.27:965][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.03.03-00.01.28:003][164]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.03-00.01.28:003][164]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScapsIdle_01_Sprite.ScapsIdle_01_Sprite
+[2020.03.03-00.01.28:003][164]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScapsIdle_02_Sprite.ScapsIdle_02_Sprite
+[2020.03.03-00.01.28:003][164]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScapsIdle_03_Sprite.ScapsIdle_03_Sprite
+[2020.03.03-00.01.28:003][164]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScapsIdle_09_Sprite.ScapsIdle_09_Sprite
+[2020.03.03-00.01.28:003][164]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScapsIdle_08_Sprite.ScapsIdle_08_Sprite
+[2020.03.03-00.01.28:003][164]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScapsIdle_07_Sprite.ScapsIdle_07_Sprite
+[2020.03.03-00.01.28:003][164]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScapsIdle_06_Sprite.ScapsIdle_06_Sprite
+[2020.03.03-00.01.28:003][164]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScapsIdle_05_Sprite.ScapsIdle_05_Sprite
+[2020.03.03-00.01.28:003][164]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScapsIdle_04_Sprite.ScapsIdle_04_Sprite
+[2020.03.03-00.01.34:104][861]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(764)].
+[2020.03.03-00.01.52:136][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.03.03-00.01.53:959][970]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.03-00.01.54:040][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.03.03-00.01.58:278][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.03.03-00.01.59:271][443]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.03-00.01.59:330][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.03.03-00.02.12:893][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk_01_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_01_Sprite.uasset" SILENT=true
+[2020.03.03-00.02.12:899][838]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_01_Sprite8F9AA3A04CC8EBE65108C1AF4BEE01FE.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_01_Sprite.uasset'
+[2020.03.03-00.02.12:906][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk_02_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_02_Sprite.uasset" SILENT=true
+[2020.03.03-00.02.12:912][838]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_02_Sprite1459F587479DDFD0FCF459A10F5AABFD.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_02_Sprite.uasset'
+[2020.03.03-00.02.12:918][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk_03_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_03_Sprite.uasset" SILENT=true
+[2020.03.03-00.02.12:924][838]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_03_Sprite0DD64B324D346EF0ED6FC0BEB03E0383.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_03_Sprite.uasset'
+[2020.03.03-00.02.12:931][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk_04_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_04_Sprite.uasset" SILENT=true
+[2020.03.03-00.02.12:937][838]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_04_SpriteF5125D904881522F1F74E0A08FE071D4.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_04_Sprite.uasset'
+[2020.03.03-00.02.12:943][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk_05_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_05_Sprite.uasset" SILENT=true
+[2020.03.03-00.02.12:948][838]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_05_SpriteE774FFBE4E00F522802264B881A98313.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_05_Sprite.uasset'
+[2020.03.03-00.02.12:955][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk_06_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_06_Sprite.uasset" SILENT=true
+[2020.03.03-00.02.12:960][838]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_06_SpriteDBE57443405C551C4D5C1EA7AAF2B37D.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_06_Sprite.uasset'
+[2020.03.03-00.02.12:966][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk_07_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_07_Sprite.uasset" SILENT=true
+[2020.03.03-00.02.12:971][838]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_07_SpriteC2B0A8ED41583D1D5A29F4A3216018C3.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_07_Sprite.uasset'
+[2020.03.03-00.02.12:977][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk_08_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_08_Sprite.uasset" SILENT=true
+[2020.03.03-00.02.13:001][838]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_08_SpriteF96D7F7944DAC4143C6DAA864674819C.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Character/ScrapsWalk_08_Sprite.uasset'
+[2020.03.03-00.02.13:376][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.03.03-00.02.13:396][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.03-00.02.13:417][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.03.03-00.02.13:436][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.03.03-00.02.13:455][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.03-00.02.13:474][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.03-00.02.13:493][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.03-00.02.13:511][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.03-00.02.13:534][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.03.03-00.02.13:554][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.03-00.02.13:589][838]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.03-00.02.13:589][838]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScrapsWalk_01_Sprite.ScrapsWalk_01_Sprite
+[2020.03.03-00.02.13:589][838]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScrapsWalk_02_Sprite.ScrapsWalk_02_Sprite
+[2020.03.03-00.02.13:589][838]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScrapsWalk_03_Sprite.ScrapsWalk_03_Sprite
+[2020.03.03-00.02.13:590][838]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScrapsWalk_04_Sprite.ScrapsWalk_04_Sprite
+[2020.03.03-00.02.13:590][838]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScrapsWalk_05_Sprite.ScrapsWalk_05_Sprite
+[2020.03.03-00.02.13:590][838]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScrapsWalk_06_Sprite.ScrapsWalk_06_Sprite
+[2020.03.03-00.02.13:590][838]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScrapsWalk_07_Sprite.ScrapsWalk_07_Sprite
+[2020.03.03-00.02.13:590][838]LogContentValidation: Display: Validating PaperSprite /Game/Character/ScrapsWalk_08_Sprite.ScrapsWalk_08_Sprite
+[2020.03.03-00.02.26:105][312]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(764)].
+[2020.03.03-00.03.02:860][582]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.03-00.03.04:363][755]LogSlate: Window 'Extract sprites' being destroyed
+[2020.03.03-00.03.05:688][913]LogSlate: Window 'Extract sprites' being destroyed
+[2020.03.03-00.03.16:111][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Backgrounds/backgroundsunset1_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Backgrounds/backgroundsunset1_Sprite.uasset" SILENT=true
+[2020.03.03-00.03.16:118][105]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/backgroundsunset1_SpriteCAA6C677481B9DDB2490FBA1FE4FAEB1.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Backgrounds/backgroundsunset1_Sprite.uasset'
+[2020.03.03-00.03.16:124][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Backgrounds/backgroundsunset_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Backgrounds/backgroundsunset_Sprite.uasset" SILENT=true
+[2020.03.03-00.03.16:131][105]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/backgroundsunset_Sprite8543350C4A01DF4A8D2FE9AC16E69740.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Backgrounds/backgroundsunset_Sprite.uasset'
+[2020.03.03-00.03.16:277][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.03.03-00.03.16:297][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.03.03-00.03.16:320][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.03.03-00.03.16:341][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.03-00.03.16:364][105]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.03-00.03.16:364][105]LogContentValidation: Display: Validating PaperSprite /Game/Backgrounds/backgroundsunset1_Sprite.backgroundsunset1_Sprite
+[2020.03.03-00.03.16:364][105]LogContentValidation: Display: Validating PaperSprite /Game/Backgrounds/backgroundsunset_Sprite.backgroundsunset_Sprite
+[2020.03.03-00.03.24:801][999]LogSlate: Window 'Extract sprites' being destroyed
+[2020.03.03-00.03.25:335][ 62]LogSlate: Window 'Extract sprites' being destroyed
+[2020.03.03-00.03.33:112][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Backgrounds/SHOP_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Backgrounds/SHOP_Sprite.uasset" SILENT=true
+[2020.03.03-00.03.33:117][920]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/SHOP_Sprite65139AFC49BCD383FE42EF971BB6DDAC.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Backgrounds/SHOP_Sprite.uasset'
+[2020.03.03-00.03.33:124][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Backgrounds/Sign_Sprite" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Backgrounds/Sign_Sprite.uasset" SILENT=true
+[2020.03.03-00.03.33:130][920]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Sign_Sprite60D22D0C4D2EB035385A9F89B2F3FCF2.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Content/Backgrounds/Sign_Sprite.uasset'
+[2020.03.03-00.03.33:277][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.03.03-00.03.33:297][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.03-00.03.33:322][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.03.03-00.03.33:341][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.03.03-00.03.33:364][920]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.03-00.03.33:364][920]LogContentValidation: Display: Validating PaperSprite /Game/Backgrounds/SHOP_Sprite.SHOP_Sprite
+[2020.03.03-00.03.33:364][920]LogContentValidation: Display: Validating PaperSprite /Game/Backgrounds/Sign_Sprite.Sign_Sprite
+[2020.03.03-00.04.04:455][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.03.03-00.04.04:456][337]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.022
+[2020.03.03-00.04.04:457][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/JunkPlatform_ON] ([1] browsable assets)...
+[2020.03.03-00.04.04:461][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/JunkPlatform_ON.JunkPlatform_ON]
+[2020.03.03-00.04.04:461][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/JunkPlatform_ON]
+[2020.03.03-00.04.04:461][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/JunkPlatform_ON" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/JunkPlatform_ON_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:466][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_ON_Auto250F271C74CCA7E8C07B11590CE23FAA3.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/JunkPlatform_ON_Auto2.uasset'
+[2020.03.03-00.04.04:467][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/JunkPlatform_OFF] ([1] browsable assets)...
+[2020.03.03-00.04.04:471][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/JunkPlatform_OFF.JunkPlatform_OFF]
+[2020.03.03-00.04.04:471][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/JunkPlatform_OFF]
+[2020.03.03-00.04.04:471][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/JunkPlatform_OFF" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/JunkPlatform_OFF_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:476][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_OFF_Auto2056989A3477C6AF426F706B193172FF1.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/JunkPlatform_OFF_Auto2.uasset'
+[2020.03.03-00.04.04:477][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/JunkPlatform_BASIC] ([1] browsable assets)...
+[2020.03.03-00.04.04:481][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/JunkPlatform_BASIC.JunkPlatform_BASIC]
+[2020.03.03-00.04.04:481][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/JunkPlatform_BASIC]
+[2020.03.03-00.04.04:481][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/JunkPlatform_BASIC" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/JunkPlatform_BASIC_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:486][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_BASIC_Auto27A5F112E4C4BD02B33E2E89622C8AC4C.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/JunkPlatform_BASIC_Auto2.uasset'
+[2020.03.03-00.04.04:487][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/JunkPlatform_BASIC_cropped] ([1] browsable assets)...
+[2020.03.03-00.04.04:491][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/JunkPlatform_BASIC_cropped.JunkPlatform_BASIC_cropped]
+[2020.03.03-00.04.04:491][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/JunkPlatform_BASIC_cropped]
+[2020.03.03-00.04.04:495][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_BASIC_cropped_Auto21EE65C0A42F8B856EC40339DDDF15C1A.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/JunkPlatform_BASIC_cropped_Auto2.uasset'
+[2020.03.03-00.04.04:496][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/car] ([1] browsable assets)...
+[2020.03.03-00.04.04:498][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/car.car]
+[2020.03.03-00.04.04:498][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/car]
+[2020.03.03-00.04.04:498][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/car" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/car_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:502][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/car_Auto2691375AC45B6BBEE198B46851C7290ED.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/car_Auto2.uasset'
+[2020.03.03-00.04.04:503][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/Acid_Bucket] ([1] browsable assets)...
+[2020.03.03-00.04.04:506][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/Acid_Bucket.Acid_Bucket]
+[2020.03.03-00.04.04:506][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/Acid_Bucket]
+[2020.03.03-00.04.04:506][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/Acid_Bucket" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/Acid_Bucket_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:514][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Acid_Bucket_Auto2FAE3B8B544C7FE9525199DA40AD67A1D.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/Acid_Bucket_Auto2.uasset'
+[2020.03.03-00.04.04:515][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/Yeargoods_Heagney] ([1] browsable assets)...
+[2020.03.03-00.04.04:519][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/Yeargoods_Heagney.Yeargoods_Heagney]
+[2020.03.03-00.04.04:519][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/Yeargoods_Heagney]
+[2020.03.03-00.04.04:519][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/Yeargoods_Heagney" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/Yeargoods_Heagney_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:525][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Yeargoods_Heagney_Auto2F211D07C47F72CBDB46D5DA0CB2B8281.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/Yeargoods_Heagney_Auto2.uasset'
+[2020.03.03-00.04.04:526][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/Time_Warped_Tower_Fungi] ([1] browsable assets)...
+[2020.03.03-00.04.04:528][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/Time_Warped_Tower_Fungi.Time_Warped_Tower_Fungi]
+[2020.03.03-00.04.04:528][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/Time_Warped_Tower_Fungi]
+[2020.03.03-00.04.04:536][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Time_Warped_Tower_Fungi_Auto2BE851B72405061FF662A948D5C6A2DFF.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/Time_Warped_Tower_Fungi_Auto2.uasset'
+[2020.03.03-00.04.04:537][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/StupidPipe_Heagney] ([1] browsable assets)...
+[2020.03.03-00.04.04:540][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/StupidPipe_Heagney.StupidPipe_Heagney]
+[2020.03.03-00.04.04:540][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/StupidPipe_Heagney]
+[2020.03.03-00.04.04:540][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/StupidPipe_Heagney" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/StupidPipe_Heagney_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:546][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/StupidPipe_Heagney_Auto2E585FE55469102E25C4D4F840D2F1529.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/StupidPipe_Heagney_Auto2.uasset'
+[2020.03.03-00.04.04:547][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/Steel_Bar] ([1] browsable assets)...
+[2020.03.03-00.04.04:548][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/Steel_Bar.Steel_Bar]
+[2020.03.03-00.04.04:548][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/Steel_Bar]
+[2020.03.03-00.04.04:548][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/Steel_Bar" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/Steel_Bar_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:557][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Steel_Bar_Auto24BCB544D45167F0BEF7040877DC813B2.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/Steel_Bar_Auto2.uasset'
+[2020.03.03-00.04.04:558][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/backgroundsunset] ([1] browsable assets)...
+[2020.03.03-00.04.04:561][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/backgroundsunset.backgroundsunset]
+[2020.03.03-00.04.04:561][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/backgroundsunset]
+[2020.03.03-00.04.04:561][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/backgroundsunset" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/backgroundsunset_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:568][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/backgroundsunset_Auto20F9215024D6DD99CF9BBBF86BFA79642.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/backgroundsunset_Auto2.uasset'
+[2020.03.03-00.04.04:569][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/backgroundsunset1] ([1] browsable assets)...
+[2020.03.03-00.04.04:572][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/backgroundsunset1.backgroundsunset1]
+[2020.03.03-00.04.04:572][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/backgroundsunset1]
+[2020.03.03-00.04.04:572][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/backgroundsunset1" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/backgroundsunset1_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:579][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/backgroundsunset1_Auto2CDD3AD5F4B5AFD2AD1F8DDA11C076C39.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/backgroundsunset1_Auto2.uasset'
+[2020.03.03-00.04.04:580][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/MetalPlatform] ([1] browsable assets)...
+[2020.03.03-00.04.04:582][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/MetalPlatform.MetalPlatform]
+[2020.03.03-00.04.04:582][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/MetalPlatform]
+[2020.03.03-00.04.04:582][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/MetalPlatform" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/MetalPlatform_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.05:030][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/MetalPlatform_Auto226FCCE6E4197734B7021D6A335211645.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/MetalPlatform_Auto2.uasset'
+[2020.03.03-00.04.05:032][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/SandPlatform] ([1] browsable assets)...
+[2020.03.03-00.04.05:034][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/SandPlatform.SandPlatform]
+[2020.03.03-00.04.05:034][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/SandPlatform]
+[2020.03.03-00.04.05:034][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/SandPlatform" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/SandPlatform_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.05:356][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/SandPlatform_Auto2C519CBF440E1C785480338A92EDA979D.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/SandPlatform_Auto2.uasset'
+[2020.03.03-00.04.05:357][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScapsIdle_01] ([1] browsable assets)...
+[2020.03.03-00.04.05:359][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScapsIdle_01.ScapsIdle_01]
+[2020.03.03-00.04.05:359][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScapsIdle_01]
+[2020.03.03-00.04.05:359][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScapsIdle_01" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_01_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.05:572][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_01_Auto2671AF9C441F49AE28839C5981D79F2AC.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_01_Auto2.uasset'
+[2020.03.03-00.04.05:573][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScapsIdle_02] ([1] browsable assets)...
+[2020.03.03-00.04.05:575][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScapsIdle_02.ScapsIdle_02]
+[2020.03.03-00.04.05:575][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScapsIdle_02]
+[2020.03.03-00.04.05:575][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScapsIdle_02" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_02_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.05:742][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_02_Auto205BE6F6644244046520EB188D5770551.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_02_Auto2.uasset'
+[2020.03.03-00.04.05:743][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScapsIdle_03] ([1] browsable assets)...
+[2020.03.03-00.04.05:746][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScapsIdle_03.ScapsIdle_03]
+[2020.03.03-00.04.05:746][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScapsIdle_03]
+[2020.03.03-00.04.05:746][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScapsIdle_03" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_03_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.05:991][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_03_Auto24042660649D58F6F4839F6BE2CC92D2E.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_03_Auto2.uasset'
+[2020.03.03-00.04.05:992][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScapsIdle_04] ([1] browsable assets)...
+[2020.03.03-00.04.05:995][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScapsIdle_04.ScapsIdle_04]
+[2020.03.03-00.04.05:995][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScapsIdle_04]
+[2020.03.03-00.04.05:995][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScapsIdle_04" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_04_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.06:472][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_04_Auto23448758C47CA934E477A7BB0D9407C6B.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_04_Auto2.uasset'
+[2020.03.03-00.04.06:473][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScapsIdle_05] ([1] browsable assets)...
+[2020.03.03-00.04.06:475][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScapsIdle_05.ScapsIdle_05]
+[2020.03.03-00.04.06:475][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScapsIdle_05]
+[2020.03.03-00.04.06:475][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScapsIdle_05" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_05_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.06:639][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_05_Auto261BB0E7D42BD7F7A340A2D817FDCF0CA.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_05_Auto2.uasset'
+[2020.03.03-00.04.06:641][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScapsIdle_06] ([1] browsable assets)...
+[2020.03.03-00.04.06:643][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScapsIdle_06.ScapsIdle_06]
+[2020.03.03-00.04.06:643][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScapsIdle_06]
+[2020.03.03-00.04.06:643][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScapsIdle_06" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_06_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.06:884][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_06_Auto2F7D52A9C4D464E4B360411971B3F0F4A.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_06_Auto2.uasset'
+[2020.03.03-00.04.06:885][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScapsIdle_07] ([1] browsable assets)...
+[2020.03.03-00.04.06:888][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScapsIdle_07.ScapsIdle_07]
+[2020.03.03-00.04.06:888][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScapsIdle_07]
+[2020.03.03-00.04.06:888][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScapsIdle_07" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_07_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.07:141][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_07_Auto295E49DCD48A1894AE4863790C8035C68.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_07_Auto2.uasset'
+[2020.03.03-00.04.07:143][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScapsIdle_08] ([1] browsable assets)...
+[2020.03.03-00.04.07:145][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScapsIdle_08.ScapsIdle_08]
+[2020.03.03-00.04.07:145][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScapsIdle_08]
+[2020.03.03-00.04.07:145][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScapsIdle_08" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_08_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.07:395][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_08_Auto2AD64CFF647746A818F581B8A63A8F876.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_08_Auto2.uasset'
+[2020.03.03-00.04.07:397][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScapsIdle_09] ([1] browsable assets)...
+[2020.03.03-00.04.07:399][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScapsIdle_09.ScapsIdle_09]
+[2020.03.03-00.04.07:399][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScapsIdle_09]
+[2020.03.03-00.04.07:399][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScapsIdle_09" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_09_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.07:952][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_09_Auto2F789DF3A410035C9050754BB4DF80410.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_09_Auto2.uasset'
+[2020.03.03-00.04.07:954][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Scrap_Idle] ([1] browsable assets)...
+[2020.03.03-00.04.07:959][337]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Character/Scrap_Idle.Scrap_Idle]
+[2020.03.03-00.04.07:959][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Scrap_Idle]
+[2020.03.03-00.04.07:959][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Scrap_Idle" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Character/Scrap_Idle_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.07:964][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Scrap_Idle_Auto2CCA6BFA842F7A0501F19079B13DC6F9D.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Character/Scrap_Idle_Auto2.uasset'
+[2020.03.03-00.04.07:966][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsJump_01] ([1] browsable assets)...
+[2020.03.03-00.04.07:968][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsJump_01.ScrapsJump_01]
+[2020.03.03-00.04.07:968][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsJump_01]
+[2020.03.03-00.04.07:968][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsJump_01" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsJump_01_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.08:205][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsJump_01_Auto21FD34CA34100E0BBBC5BE2B7A04B5B0A.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsJump_01_Auto2.uasset'
+[2020.03.03-00.04.08:206][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsJump_02] ([1] browsable assets)...
+[2020.03.03-00.04.08:209][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsJump_02.ScrapsJump_02]
+[2020.03.03-00.04.08:209][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsJump_02]
+[2020.03.03-00.04.08:209][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsJump_02" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsJump_02_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.08:355][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsJump_02_Auto27116E4D84738F64596072B8E3C4BB033.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsJump_02_Auto2.uasset'
+[2020.03.03-00.04.08:357][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsWalk_01] ([1] browsable assets)...
+[2020.03.03-00.04.08:359][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsWalk_01.ScrapsWalk_01]
+[2020.03.03-00.04.08:359][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsWalk_01]
+[2020.03.03-00.04.08:359][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsWalk_01" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_01_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.08:640][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_01_Auto26F7B000B47F972AB0CDD2EB8720878C4.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_01_Auto2.uasset'
+[2020.03.03-00.04.08:641][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsWalk_02] ([1] browsable assets)...
+[2020.03.03-00.04.08:644][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsWalk_02.ScrapsWalk_02]
+[2020.03.03-00.04.08:645][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsWalk_02]
+[2020.03.03-00.04.08:645][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsWalk_02" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_02_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.09:267][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_02_Auto20023F1D146B64F4EAF59DFB12B3F8A4C.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_02_Auto2.uasset'
+[2020.03.03-00.04.09:268][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsWalk_03] ([1] browsable assets)...
+[2020.03.03-00.04.09:271][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsWalk_03.ScrapsWalk_03]
+[2020.03.03-00.04.09:271][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsWalk_03]
+[2020.03.03-00.04.09:271][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsWalk_03" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_03_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.09:672][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_03_Auto202FD6634462B3396D50A67AD31839DFC.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_03_Auto2.uasset'
+[2020.03.03-00.04.09:673][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsWalk_04] ([1] browsable assets)...
+[2020.03.03-00.04.09:676][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsWalk_04.ScrapsWalk_04]
+[2020.03.03-00.04.09:676][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsWalk_04]
+[2020.03.03-00.04.09:676][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsWalk_04" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_04_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.09:938][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_04_Auto21DDB00B6425F5824F6E14F9328CD7E05.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_04_Auto2.uasset'
+[2020.03.03-00.04.09:939][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsWalk_05] ([1] browsable assets)...
+[2020.03.03-00.04.09:942][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsWalk_05.ScrapsWalk_05]
+[2020.03.03-00.04.09:942][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsWalk_05]
+[2020.03.03-00.04.09:942][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsWalk_05" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_05_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.10:170][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_05_Auto2613F808344D0123BFF821FB12D168B13.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_05_Auto2.uasset'
+[2020.03.03-00.04.10:171][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsWalk_06] ([1] browsable assets)...
+[2020.03.03-00.04.10:174][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsWalk_06.ScrapsWalk_06]
+[2020.03.03-00.04.10:174][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsWalk_06]
+[2020.03.03-00.04.10:174][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsWalk_06" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_06_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.10:838][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_06_Auto2FC5D82B041C44FA46ED512B4AA40190E.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_06_Auto2.uasset'
+[2020.03.03-00.04.10:839][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsWalk_07] ([1] browsable assets)...
+[2020.03.03-00.04.10:842][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsWalk_07.ScrapsWalk_07]
+[2020.03.03-00.04.10:842][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsWalk_07]
+[2020.03.03-00.04.10:842][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsWalk_07" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_07_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.11:106][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_07_Auto2F91509CD48759A4BEDBB79A668DD11F4.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_07_Auto2.uasset'
+[2020.03.03-00.04.11:107][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsWalk_08] ([1] browsable assets)...
+[2020.03.03-00.04.11:110][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsWalk_08.ScrapsWalk_08]
+[2020.03.03-00.04.11:110][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsWalk_08]
+[2020.03.03-00.04.11:110][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsWalk_08" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_08_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.11:372][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_08_Auto2897EA8E248F417BB98721BA70FEF19EB.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_08_Auto2.uasset'
+[2020.03.03-00.04.11:373][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/SHOP] ([1] browsable assets)...
+[2020.03.03-00.04.11:376][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/SHOP.SHOP]
+[2020.03.03-00.04.11:376][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/SHOP]
+[2020.03.03-00.04.11:376][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/SHOP" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/SHOP_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.11:417][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/SHOP_Auto2208670934F9E49401A0ECDA1575944E3.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/SHOP_Auto2.uasset'
+[2020.03.03-00.04.11:419][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/Sign] ([1] browsable assets)...
+[2020.03.03-00.04.11:422][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/Sign.Sign]
+[2020.03.03-00.04.11:422][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/Sign]
+[2020.03.03-00.04.11:422][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/Sign" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/Sign_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.11:468][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Sign_Auto2F03DACD04F8F6800A5E974A081F76630.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/Sign_Auto2.uasset'
+[2020.03.03-00.04.11:469][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/ScrapsWalk] ([1] browsable assets)...
+[2020.03.03-00.04.11:474][337]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Character/ScrapsWalk.ScrapsWalk]
+[2020.03.03-00.04.11:474][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/ScrapsWalk]
+[2020.03.03-00.04.11:474][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Character/ScrapsWalk_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.11:479][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_Auto247E42D5349DC095623F056B19D349F93.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Character/ScrapsWalk_Auto2.uasset'
+[2020.03.03-00.04.11:480][337]LogFileHelpers: Auto-saving content packages took 7.023
