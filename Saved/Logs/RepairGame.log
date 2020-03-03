@@ -1171,3 +1171,189 @@ Script Stack (0 frames):
 [2020.03.03-00.03.33:364][920]AssetCheck: New page: Asset Save: multiple assets
 [2020.03.03-00.03.33:364][920]LogContentValidation: Display: Validating PaperSprite /Game/Backgrounds/SHOP_Sprite.SHOP_Sprite
 [2020.03.03-00.03.33:364][920]LogContentValidation: Display: Validating PaperSprite /Game/Backgrounds/Sign_Sprite.Sign_Sprite
+[2020.03.03-00.04.04:455][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.03.03-00.04.04:456][337]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.022
+[2020.03.03-00.04.04:457][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/JunkPlatform_ON] ([1] browsable assets)...
+[2020.03.03-00.04.04:461][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/JunkPlatform_ON.JunkPlatform_ON]
+[2020.03.03-00.04.04:461][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/JunkPlatform_ON]
+[2020.03.03-00.04.04:461][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/JunkPlatform_ON" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/JunkPlatform_ON_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:466][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_ON_Auto250F271C74CCA7E8C07B11590CE23FAA3.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/JunkPlatform_ON_Auto2.uasset'
+[2020.03.03-00.04.04:467][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/JunkPlatform_OFF] ([1] browsable assets)...
+[2020.03.03-00.04.04:471][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/JunkPlatform_OFF.JunkPlatform_OFF]
+[2020.03.03-00.04.04:471][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/JunkPlatform_OFF]
+[2020.03.03-00.04.04:471][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/JunkPlatform_OFF" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/JunkPlatform_OFF_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:476][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_OFF_Auto2056989A3477C6AF426F706B193172FF1.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/JunkPlatform_OFF_Auto2.uasset'
+[2020.03.03-00.04.04:477][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/JunkPlatform_BASIC] ([1] browsable assets)...
+[2020.03.03-00.04.04:481][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/JunkPlatform_BASIC.JunkPlatform_BASIC]
+[2020.03.03-00.04.04:481][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/JunkPlatform_BASIC]
+[2020.03.03-00.04.04:481][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/JunkPlatform_BASIC" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/JunkPlatform_BASIC_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:486][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_BASIC_Auto27A5F112E4C4BD02B33E2E89622C8AC4C.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/JunkPlatform_BASIC_Auto2.uasset'
+[2020.03.03-00.04.04:487][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/JunkPlatform_BASIC_cropped] ([1] browsable assets)...
+[2020.03.03-00.04.04:491][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/JunkPlatform_BASIC_cropped.JunkPlatform_BASIC_cropped]
+[2020.03.03-00.04.04:491][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/JunkPlatform_BASIC_cropped]
+[2020.03.03-00.04.04:495][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/JunkPlatform_BASIC_cropped_Auto21EE65C0A42F8B856EC40339DDDF15C1A.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/JunkPlatform_BASIC_cropped_Auto2.uasset'
+[2020.03.03-00.04.04:496][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/car] ([1] browsable assets)...
+[2020.03.03-00.04.04:498][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/car.car]
+[2020.03.03-00.04.04:498][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/car]
+[2020.03.03-00.04.04:498][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/car" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/car_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:502][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/car_Auto2691375AC45B6BBEE198B46851C7290ED.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/car_Auto2.uasset'
+[2020.03.03-00.04.04:503][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/Acid_Bucket] ([1] browsable assets)...
+[2020.03.03-00.04.04:506][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/Acid_Bucket.Acid_Bucket]
+[2020.03.03-00.04.04:506][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/Acid_Bucket]
+[2020.03.03-00.04.04:506][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/Acid_Bucket" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/Acid_Bucket_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:514][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Acid_Bucket_Auto2FAE3B8B544C7FE9525199DA40AD67A1D.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/Acid_Bucket_Auto2.uasset'
+[2020.03.03-00.04.04:515][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/Yeargoods_Heagney] ([1] browsable assets)...
+[2020.03.03-00.04.04:519][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/Yeargoods_Heagney.Yeargoods_Heagney]
+[2020.03.03-00.04.04:519][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/Yeargoods_Heagney]
+[2020.03.03-00.04.04:519][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/Yeargoods_Heagney" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/Yeargoods_Heagney_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:525][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Yeargoods_Heagney_Auto2F211D07C47F72CBDB46D5DA0CB2B8281.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/Yeargoods_Heagney_Auto2.uasset'
+[2020.03.03-00.04.04:526][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/Time_Warped_Tower_Fungi] ([1] browsable assets)...
+[2020.03.03-00.04.04:528][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/Time_Warped_Tower_Fungi.Time_Warped_Tower_Fungi]
+[2020.03.03-00.04.04:528][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/Time_Warped_Tower_Fungi]
+[2020.03.03-00.04.04:536][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Time_Warped_Tower_Fungi_Auto2BE851B72405061FF662A948D5C6A2DFF.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/Time_Warped_Tower_Fungi_Auto2.uasset'
+[2020.03.03-00.04.04:537][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/StupidPipe_Heagney] ([1] browsable assets)...
+[2020.03.03-00.04.04:540][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/StupidPipe_Heagney.StupidPipe_Heagney]
+[2020.03.03-00.04.04:540][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/StupidPipe_Heagney]
+[2020.03.03-00.04.04:540][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/StupidPipe_Heagney" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/StupidPipe_Heagney_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:546][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/StupidPipe_Heagney_Auto2E585FE55469102E25C4D4F840D2F1529.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/StupidPipe_Heagney_Auto2.uasset'
+[2020.03.03-00.04.04:547][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/Steel_Bar] ([1] browsable assets)...
+[2020.03.03-00.04.04:548][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/Steel_Bar.Steel_Bar]
+[2020.03.03-00.04.04:548][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/Steel_Bar]
+[2020.03.03-00.04.04:548][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/Steel_Bar" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/Steel_Bar_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:557][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Steel_Bar_Auto24BCB544D45167F0BEF7040877DC813B2.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/Steel_Bar_Auto2.uasset'
+[2020.03.03-00.04.04:558][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/backgroundsunset] ([1] browsable assets)...
+[2020.03.03-00.04.04:561][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/backgroundsunset.backgroundsunset]
+[2020.03.03-00.04.04:561][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/backgroundsunset]
+[2020.03.03-00.04.04:561][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/backgroundsunset" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/backgroundsunset_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:568][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/backgroundsunset_Auto20F9215024D6DD99CF9BBBF86BFA79642.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/backgroundsunset_Auto2.uasset'
+[2020.03.03-00.04.04:569][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/backgroundsunset1] ([1] browsable assets)...
+[2020.03.03-00.04.04:572][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/backgroundsunset1.backgroundsunset1]
+[2020.03.03-00.04.04:572][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/backgroundsunset1]
+[2020.03.03-00.04.04:572][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/backgroundsunset1" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/backgroundsunset1_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.04:579][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/backgroundsunset1_Auto2CDD3AD5F4B5AFD2AD1F8DDA11C076C39.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/backgroundsunset1_Auto2.uasset'
+[2020.03.03-00.04.04:580][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/MetalPlatform] ([1] browsable assets)...
+[2020.03.03-00.04.04:582][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/MetalPlatform.MetalPlatform]
+[2020.03.03-00.04.04:582][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/MetalPlatform]
+[2020.03.03-00.04.04:582][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/MetalPlatform" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/MetalPlatform_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.05:030][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/MetalPlatform_Auto226FCCE6E4197734B7021D6A335211645.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/MetalPlatform_Auto2.uasset'
+[2020.03.03-00.04.05:032][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/SandPlatform] ([1] browsable assets)...
+[2020.03.03-00.04.05:034][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/SandPlatform.SandPlatform]
+[2020.03.03-00.04.05:034][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/SandPlatform]
+[2020.03.03-00.04.05:034][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/SandPlatform" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/SandPlatform_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.05:356][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/SandPlatform_Auto2C519CBF440E1C785480338A92EDA979D.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/SandPlatform_Auto2.uasset'
+[2020.03.03-00.04.05:357][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScapsIdle_01] ([1] browsable assets)...
+[2020.03.03-00.04.05:359][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScapsIdle_01.ScapsIdle_01]
+[2020.03.03-00.04.05:359][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScapsIdle_01]
+[2020.03.03-00.04.05:359][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScapsIdle_01" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_01_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.05:572][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_01_Auto2671AF9C441F49AE28839C5981D79F2AC.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_01_Auto2.uasset'
+[2020.03.03-00.04.05:573][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScapsIdle_02] ([1] browsable assets)...
+[2020.03.03-00.04.05:575][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScapsIdle_02.ScapsIdle_02]
+[2020.03.03-00.04.05:575][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScapsIdle_02]
+[2020.03.03-00.04.05:575][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScapsIdle_02" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_02_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.05:742][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_02_Auto205BE6F6644244046520EB188D5770551.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_02_Auto2.uasset'
+[2020.03.03-00.04.05:743][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScapsIdle_03] ([1] browsable assets)...
+[2020.03.03-00.04.05:746][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScapsIdle_03.ScapsIdle_03]
+[2020.03.03-00.04.05:746][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScapsIdle_03]
+[2020.03.03-00.04.05:746][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScapsIdle_03" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_03_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.05:991][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_03_Auto24042660649D58F6F4839F6BE2CC92D2E.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_03_Auto2.uasset'
+[2020.03.03-00.04.05:992][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScapsIdle_04] ([1] browsable assets)...
+[2020.03.03-00.04.05:995][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScapsIdle_04.ScapsIdle_04]
+[2020.03.03-00.04.05:995][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScapsIdle_04]
+[2020.03.03-00.04.05:995][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScapsIdle_04" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_04_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.06:472][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_04_Auto23448758C47CA934E477A7BB0D9407C6B.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_04_Auto2.uasset'
+[2020.03.03-00.04.06:473][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScapsIdle_05] ([1] browsable assets)...
+[2020.03.03-00.04.06:475][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScapsIdle_05.ScapsIdle_05]
+[2020.03.03-00.04.06:475][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScapsIdle_05]
+[2020.03.03-00.04.06:475][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScapsIdle_05" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_05_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.06:639][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_05_Auto261BB0E7D42BD7F7A340A2D817FDCF0CA.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_05_Auto2.uasset'
+[2020.03.03-00.04.06:641][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScapsIdle_06] ([1] browsable assets)...
+[2020.03.03-00.04.06:643][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScapsIdle_06.ScapsIdle_06]
+[2020.03.03-00.04.06:643][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScapsIdle_06]
+[2020.03.03-00.04.06:643][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScapsIdle_06" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_06_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.06:884][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_06_Auto2F7D52A9C4D464E4B360411971B3F0F4A.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_06_Auto2.uasset'
+[2020.03.03-00.04.06:885][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScapsIdle_07] ([1] browsable assets)...
+[2020.03.03-00.04.06:888][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScapsIdle_07.ScapsIdle_07]
+[2020.03.03-00.04.06:888][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScapsIdle_07]
+[2020.03.03-00.04.06:888][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScapsIdle_07" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_07_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.07:141][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_07_Auto295E49DCD48A1894AE4863790C8035C68.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_07_Auto2.uasset'
+[2020.03.03-00.04.07:143][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScapsIdle_08] ([1] browsable assets)...
+[2020.03.03-00.04.07:145][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScapsIdle_08.ScapsIdle_08]
+[2020.03.03-00.04.07:145][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScapsIdle_08]
+[2020.03.03-00.04.07:145][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScapsIdle_08" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_08_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.07:395][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_08_Auto2AD64CFF647746A818F581B8A63A8F876.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_08_Auto2.uasset'
+[2020.03.03-00.04.07:397][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScapsIdle_09] ([1] browsable assets)...
+[2020.03.03-00.04.07:399][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScapsIdle_09.ScapsIdle_09]
+[2020.03.03-00.04.07:399][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScapsIdle_09]
+[2020.03.03-00.04.07:399][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScapsIdle_09" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_09_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.07:952][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScapsIdle_09_Auto2F789DF3A410035C9050754BB4DF80410.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScapsIdle_09_Auto2.uasset'
+[2020.03.03-00.04.07:954][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Scrap_Idle] ([1] browsable assets)...
+[2020.03.03-00.04.07:959][337]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Character/Scrap_Idle.Scrap_Idle]
+[2020.03.03-00.04.07:959][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Scrap_Idle]
+[2020.03.03-00.04.07:959][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Scrap_Idle" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Character/Scrap_Idle_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.07:964][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Scrap_Idle_Auto2CCA6BFA842F7A0501F19079B13DC6F9D.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Character/Scrap_Idle_Auto2.uasset'
+[2020.03.03-00.04.07:966][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsJump_01] ([1] browsable assets)...
+[2020.03.03-00.04.07:968][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsJump_01.ScrapsJump_01]
+[2020.03.03-00.04.07:968][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsJump_01]
+[2020.03.03-00.04.07:968][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsJump_01" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsJump_01_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.08:205][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsJump_01_Auto21FD34CA34100E0BBBC5BE2B7A04B5B0A.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsJump_01_Auto2.uasset'
+[2020.03.03-00.04.08:206][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsJump_02] ([1] browsable assets)...
+[2020.03.03-00.04.08:209][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsJump_02.ScrapsJump_02]
+[2020.03.03-00.04.08:209][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsJump_02]
+[2020.03.03-00.04.08:209][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsJump_02" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsJump_02_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.08:355][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsJump_02_Auto27116E4D84738F64596072B8E3C4BB033.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsJump_02_Auto2.uasset'
+[2020.03.03-00.04.08:357][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsWalk_01] ([1] browsable assets)...
+[2020.03.03-00.04.08:359][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsWalk_01.ScrapsWalk_01]
+[2020.03.03-00.04.08:359][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsWalk_01]
+[2020.03.03-00.04.08:359][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsWalk_01" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_01_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.08:640][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_01_Auto26F7B000B47F972AB0CDD2EB8720878C4.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_01_Auto2.uasset'
+[2020.03.03-00.04.08:641][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsWalk_02] ([1] browsable assets)...
+[2020.03.03-00.04.08:644][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsWalk_02.ScrapsWalk_02]
+[2020.03.03-00.04.08:645][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsWalk_02]
+[2020.03.03-00.04.08:645][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsWalk_02" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_02_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.09:267][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_02_Auto20023F1D146B64F4EAF59DFB12B3F8A4C.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_02_Auto2.uasset'
+[2020.03.03-00.04.09:268][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsWalk_03] ([1] browsable assets)...
+[2020.03.03-00.04.09:271][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsWalk_03.ScrapsWalk_03]
+[2020.03.03-00.04.09:271][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsWalk_03]
+[2020.03.03-00.04.09:271][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsWalk_03" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_03_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.09:672][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_03_Auto202FD6634462B3396D50A67AD31839DFC.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_03_Auto2.uasset'
+[2020.03.03-00.04.09:673][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsWalk_04] ([1] browsable assets)...
+[2020.03.03-00.04.09:676][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsWalk_04.ScrapsWalk_04]
+[2020.03.03-00.04.09:676][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsWalk_04]
+[2020.03.03-00.04.09:676][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsWalk_04" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_04_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.09:938][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_04_Auto21DDB00B6425F5824F6E14F9328CD7E05.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_04_Auto2.uasset'
+[2020.03.03-00.04.09:939][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsWalk_05] ([1] browsable assets)...
+[2020.03.03-00.04.09:942][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsWalk_05.ScrapsWalk_05]
+[2020.03.03-00.04.09:942][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsWalk_05]
+[2020.03.03-00.04.09:942][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsWalk_05" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_05_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.10:170][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_05_Auto2613F808344D0123BFF821FB12D168B13.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_05_Auto2.uasset'
+[2020.03.03-00.04.10:171][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsWalk_06] ([1] browsable assets)...
+[2020.03.03-00.04.10:174][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsWalk_06.ScrapsWalk_06]
+[2020.03.03-00.04.10:174][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsWalk_06]
+[2020.03.03-00.04.10:174][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsWalk_06" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_06_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.10:838][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_06_Auto2FC5D82B041C44FA46ED512B4AA40190E.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_06_Auto2.uasset'
+[2020.03.03-00.04.10:839][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsWalk_07] ([1] browsable assets)...
+[2020.03.03-00.04.10:842][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsWalk_07.ScrapsWalk_07]
+[2020.03.03-00.04.10:842][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsWalk_07]
+[2020.03.03-00.04.10:842][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsWalk_07" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_07_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.11:106][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_07_Auto2F91509CD48759A4BEDBB79A668DD11F4.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_07_Auto2.uasset'
+[2020.03.03-00.04.11:107][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/ScrapsWalk_08] ([1] browsable assets)...
+[2020.03.03-00.04.11:110][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/ScrapsWalk_08.ScrapsWalk_08]
+[2020.03.03-00.04.11:110][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/ScrapsWalk_08]
+[2020.03.03-00.04.11:110][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/ScrapsWalk_08" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_08_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.11:372][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_08_Auto2897EA8E248F417BB98721BA70FEF19EB.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/ScrapsWalk_08_Auto2.uasset'
+[2020.03.03-00.04.11:373][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/SHOP] ([1] browsable assets)...
+[2020.03.03-00.04.11:376][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/SHOP.SHOP]
+[2020.03.03-00.04.11:376][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/SHOP]
+[2020.03.03-00.04.11:376][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/SHOP" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/SHOP_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.11:417][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/SHOP_Auto2208670934F9E49401A0ECDA1575944E3.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/SHOP_Auto2.uasset'
+[2020.03.03-00.04.11:419][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/aRT/Sign] ([1] browsable assets)...
+[2020.03.03-00.04.11:422][337]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/aRT/Sign.Sign]
+[2020.03.03-00.04.11:422][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/aRT/Sign]
+[2020.03.03-00.04.11:422][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aRT/Sign" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/Sign_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.11:468][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Sign_Auto2F03DACD04F8F6800A5E974A081F76630.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/aRT/Sign_Auto2.uasset'
+[2020.03.03-00.04.11:469][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/ScrapsWalk] ([1] browsable assets)...
+[2020.03.03-00.04.11:474][337]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Character/ScrapsWalk.ScrapsWalk]
+[2020.03.03-00.04.11:474][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/ScrapsWalk]
+[2020.03.03-00.04.11:474][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Character/ScrapsWalk_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.03-00.04.11:479][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_Auto247E42D5349DC095623F056B19D349F93.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Character/ScrapsWalk_Auto2.uasset'
+[2020.03.03-00.04.11:480][337]LogFileHelpers: Auto-saving content packages took 7.023
