@@ -1357,3 +1357,96 @@ Script Stack (0 frames):
 [2020.03.03-00.04.11:474][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/ScrapsWalk" FILE="../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Character/ScrapsWalk_Auto2.uasset" SILENT=false AUTOSAVING=true
 [2020.03.03-00.04.11:479][337]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/ScrapsWalk_Auto247E42D5349DC095623F056B19D349F93.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/Character/ScrapsWalk_Auto2.uasset'
 [2020.03.03-00.04.11:480][337]LogFileHelpers: Auto-saving content packages took 7.023
+[2020.03.03-00.49.55:850][457]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2020.03.03-00.50.24:208][782]LogSlate: Took 0.022127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.03-00.50.29:476][384]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2020.03.03-00.50.30:632][516]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2020.03.03-00.50.32:759][767]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2020.03.03-00.50.33:225][820]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_12)
+[2020.03.03-00.50.33:797][885]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (MetalPlatform_Sprite)
+[2020.03.03-00.50.38:677][463]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.03.03-00.50.39:812][596]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (MetalPlatform_Sprite)
+[2020.03.03-00.50.55:879][518]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2020.03.03-00.50.56:773][622]Cmd: DELETE
+[2020.03.03-00.50.56:773][622]Cmd: ACTOR DELETE
+[2020.03.03-00.50.56:774][622]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2020.03.03-00.50.56:795][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.03.03-00.50.56:797][622]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.03.03-00.50.57:468][703]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (MetalPlatform_Sprite)
+[2020.03.03-00.51.01:253][150]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.03-00.51.01:257][150]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.03-00.51.01:257][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.03-00.51.01:257][150]PIE: New page: PIE session: 2DSideScrollerExampleMap (Mar 2, 2020, 2:51:01 PM)
+[2020.03.03-00.51.01:258][150]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.03-00.51.01:259][150]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.03.03-00.51.01:259][150]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.03-00.51.01:261][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002435s)
+[2020.03.03-00.51.01:262][150]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.03-00.51.01:262][150]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2020.03.03-00.51.01:262][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003458s)
+[2020.03.03-00.51.01:282][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.03.03-00.51.01:283][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.03-00.51.01:283][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.03-00.51.01:283][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.03-00.51.01:283][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.03-00.51.01:283][150]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.03-00.51.01:283][150]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.03-00.51.01:283][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.03-00.51.01:283][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.03-00.51.01:283][150]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.03-00.51.01:283][150]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.03-00.51.01:298][150]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.03-00.51.01:298][150]LogAudioMixer: Display: Name: ExtronScalerD (2- NVIDIA High Definition Audio)
+[2020.03.03-00.51.01:298][150]LogAudioMixer: Display: Is Default: Yes
+[2020.03.03-00.51.01:298][150]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.03-00.51.01:298][150]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.03-00.51.01:298][150]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.03-00.51.01:298][150]LogAudioMixer: Display: Channel Order:
+[2020.03.03-00.51.01:298][150]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.03-00.51.01:298][150]LogAudioMixer: Display: 1: FrontRight
+[2020.03.03-00.51.01:309][150]LogAudioMixer: Display: Using Audio Device ExtronScalerD (2- NVIDIA High Definition Audio)
+[2020.03.03-00.51.01:311][150]LogInit: FAudioDevice initialized.
+[2020.03.03-00.51.01:317][150]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.03-00.51.01:356][150]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.02-19.51.01
+[2020.03.03-00.51.01:356][150]LogWorld: Bringing up level for play took: 0.000845
+[2020.03.03-00.51.01:356][150]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.03.03-00.51.01:370][150]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.03.03-00.51.01:371][150]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.018
+[2020.03.03-00.51.01:371][150]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.03-00.51.03:663][420]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-00.51.03:663][420]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-00.51.03:663][420]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.03-00.51.03:663][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-00.51.03:663][420]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.03-00.51.03:663][420]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-00.51.03:663][420]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-00.51.03:664][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-00.51.03:672][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.03-00.51.03:672][420]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.03-00.51.03:675][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-00.51.03:695][420]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.03-00.51.03:697][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-00.51.03:700][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.03.03-00.51.03:770][427]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.03.03-00.51.09:517][116]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (MetalPlatform_Sprite)
+[2020.03.03-00.51.13:651][609]Cmd: EDIT COPY
+[2020.03.03-00.51.13:869][635]Cmd: EDIT PASTE
+[2020.03.03-00.51.15:587][838]Cmd: DELETE
+[2020.03.03-00.51.15:587][838]Cmd: ACTOR DELETE
+[2020.03.03-00.51.15:588][838]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2020.03.03-00.51.15:610][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.03.03-00.51.15:611][838]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.03.03-00.51.41:273][882]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.03.03-00.51.42:483][ 23]Cmd: DELETE
+[2020.03.03-00.51.42:483][ 23]Cmd: ACTOR DELETE
+[2020.03.03-00.51.42:485][ 23]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2020.03.03-00.51.42:504][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.03.03-00.51.42:506][ 23]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.03.03-00.51.44:582][272]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (backgroundsunset1_Sprite)
+[2020.03.03-00.51.51:771][112]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (backgroundsunset1_Sprite)
+[2020.03.03-00.51.52:647][216]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2020.03.03-00.53.19:746][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.03.03-00.53.19:838][574]LogSavePackage: Moving '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/2DSideScrollerExampleMap_Auto3DEF0A798403CD5AF8BD4499C4552D808.tmp' to '../../../../../../Users/skaffenb/Desktop/RepairGame/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto3.umap'
+[2020.03.03-00.53.19:840][574]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.115
+[2020.03.03-00.53.19:840][574]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.115
+[2020.03.03-01.01.10:382][  9]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(764)].
